@@ -8,8 +8,8 @@ categories: [HTML5, UX]
 
 Scott Barnes issued something of a challenge on Twitter yesterday
 
-<blockquote class="twitter-tweet tw-align-center"><p>one day i'd like to use a website that actually uses the "forward" button with page sets.. like.. wtf do i scroll down to hit a fake button?</p>&mdash; Scott Barnes c[×┬õ]כ (@MossyBlog) <a href="https://twitter.com/MossyBlog/status/281190204818198528" data-datetime="2012-12-19T00:12:23+00:00">December 19, 2012</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet tw-align-center">one day i'd like to use a website that actually uses the "forward" button with page sets.. like.. wtf do i scroll down to hit a fake button?</p>&mdash; Scott Barnes c[×┬õ]כ (@MossyBlog) <a href="https://twitter.com/MossyBlog/status/281190204818198528" data-datetime="2012-12-19T00:12:23+00:00">December 19, 2012</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It turns out it is possible to do this using the History API, though arguably
 it requires a bit of a hack. This History API was designed to allow web
@@ -116,6 +116,10 @@ I will say that it's works great with a Macbook's forward swipe gesture.
 
 Want to try it out? Go [here](http://lucisferre.net) and start clicking
 forward.
+
+__Update__: Since I've updated the site design and the index no longer has
+pagination this doesn't work anymore. If there's interest I'll set up a demo
+somewhere else. Ping me on twitter if you'd like.
 
 [pjax]: https://github.com/defunkt/jquery-pjax
 [historyjs]: https://github.com/balupton/History.js/

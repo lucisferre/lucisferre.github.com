@@ -3,11 +3,11 @@ title: lucisferre
 email: chnicola@gmail.com
 description: "Software, startups and relentless improvement."
 baseurl: ""
-url: "http://lucisferre.net"
 
 # Build settings
 markdown: redcarpet
 permalink: pretty
+highlighter: pygments
 
 redcarpet:
   extensions: [strikethrough, tables]

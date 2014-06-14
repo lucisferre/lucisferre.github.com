@@ -3,3 +3,11 @@
 
 - url: /about
   title: About
+
+- url: https://twitter.com/chrismnicola
+  title: Twitter
+  target: _blank
+
+- url: https://github.com/chrisnicola
+  title: Github
+  target: _blank
