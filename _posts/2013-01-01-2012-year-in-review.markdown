@@ -9,7 +9,7 @@ categories:
 - retrospective
 ---
 
-{% img /images/resolution-cat.jpg %}
+![Cat](/images/resolution-cat.jpg)
 
 This last year was spent entirely immersed in startup land working with Ruby on
 Rails, HTML5, CSS3 and javascript and coffeescript. It's been a great

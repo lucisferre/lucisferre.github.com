@@ -6,7 +6,7 @@ comments: true
 categories: [polyglot, conference]
 ---
 
-{% img right /images/polyglot-icon.png %}   
+<img class="right" src="/images/polyglot-icon.png">
 
 Well it's finally done. I really want to thank everyone who came and everyone
 who helped make it happen. All of the organizers and volunteers did a really

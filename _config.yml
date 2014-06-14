@@ -6,7 +6,7 @@ baseurl: ""
 
 # Build settings
 markdown: redcarpet
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 highlighter: pygments
 
 redcarpet:

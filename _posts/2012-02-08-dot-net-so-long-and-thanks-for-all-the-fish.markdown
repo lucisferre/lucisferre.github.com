@@ -9,7 +9,7 @@ categories:
 - rant
 ---
 
-{% img center /images/dolphin.jpg dolphins are smart animals, they've left .NET, shouldn't you? %}
+<img src="/images/dolphin.jpg" class="center" title="Dolphins are smart animals, they've left .NET, shouldn't you?">
 
 Shortly after I return back from recharging my batteries in Maui there will be some big changes for me. First, I begin a new chapter in my career at a local startup called [Tictalking][tictalking] and second, this will mark the end of my days as a .NET developer for the foreseeable future. Now obviously I'm very excited about joining a startup for the first time, but I'm also excited---perhaps even a bit relieved---to be moving out of the Microsoft, Windows and .NET development stack. 
 
@@ -20,7 +20,7 @@ You'd probably have to have been living under a rock to have missed all the prev
 
 .NET and I have had some good times. I think the first thing I really loved was Visual Studio. Between the project templates and intellisense I was quickly able to learn and do just enough to be dangerous. I had a simple web app running in a week and my first real desktop/database application, an insurance database, took a few months. But when I say "dangerous" I mean it. Like a fool I used everything the IDE (VS2008) could provide me with. From Winforms and Webforms to databinding with Strongly-Typed Datasets and all using every single visual designer surface I could find to build software---do *not* try this at home.
 
-{% img right /images/looknocode.jpg 400 Look ma' no code! %}
+<img src="/images/looknocode.jpg" width="400" class="right">
 
 Fortunately there was redemption early on for me. After reading a lot of blogs, attending DevTeach and ALT.NET Canada and becoming exposed to ReSharper I started to take my game to a whole new level. ReSharper's suggestions helped me understand the amount of redundancy that was lurking in my code. It improved my C# coding style even taught myself LINQ from R# suggesting when I could convert a loop to a LINQ statement. I learned how to use nHibernate, started writing unit tests, and a lot more after that.
 
@@ -55,9 +55,9 @@ There is a lot of legacy built up in Windows, Visual Studio and .NET, not to men
 
 Now I'm digressing a bit so let me just get to the bottom line. I just want languages, tools and frameworks to help me get work done and then get out of my way. Is Rails a clean code panacea? Is Javascript elegant? No. However, am I more productive, less burdened and do I have more options and flexibility? Absolutely. I am far less frustrated trying to produce elegant, clear, extensible and maintainable solutions in these dynamic languages. I also find that dynamic languages, modern web frameworks and \*nix is just more fun. That's all just my opinion obviously, but while were on the subject, I'll just drop in this quote from Alan Kay, the considered "father of OOP".
 
-{% blockquote Alan Kay http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented Alan Kay's definition of OOP %}
-Until real software engineering is developed, the next best practice is to develop with a dynamic system that has extreme late binding in all aspects.
-{% endblockquote %}
+> Until real software engineering is developed, the next best practice is to develop with a dynamic system that has extreme late binding in all aspects.
+
+> -- [Alan Kay](http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented)
 
 ###Environment and Culture
 
@@ -73,7 +73,7 @@ Suffice to say, while I could suggest that I'm making this decision for a litany
 
 Finally, I do really want to thank iQmetrix for the opportunites they have afforded me. I've been given a lot of freedom. I've had the opportunity to work with a modern technology stack, the freedom to choose the best frameworks and tools and quite a lot of support. I've also worked with some very talented, hard working and intelligent people and I've learned a lot from them and from this experience.
 
-{% img right /images/dont-panic.jpg 400 Enjoy the ride %}
+<img class="right" src="/images/dont-panic.jpg" width="400">
 
 Now I'm just excited about getting my feet wet in Vancouver's burgeoning startup ecosystem. Like I've previously mentioned [it is an exciting time to be a software developer][7] and my advice, if you are so inclined and are willing to take some risks, is to just make sure you don't let it pass you by.
 

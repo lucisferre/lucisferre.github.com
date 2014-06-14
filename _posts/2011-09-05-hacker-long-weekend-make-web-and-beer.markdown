@@ -37,7 +37,6 @@ be at least 8 or 9 hours!
 
 <!--more-->
 
-{% pullquote %}
 Now this is my second Rails project, but it's arguably the first I've started
 to put any serious effort into. The first was a simple toy [pomodoro app][5]
 which is fun but not all that interesting. This time I had more of a plan. The
@@ -45,9 +44,8 @@ main goal was to use Rails for what it is good at, **not writing code**. Not in
 the ASP.NET conference demo sense---_and I did it all without writing a single
 line of code---_ but rather, in the, _leveraging one of the riches FOSS
 ecosystems for web development today---_or as one pundit puts it, 
-{" "The greatest web framework, that God gave man, on this earth." "}
+"The greatest web framework, that God gave man, on this earth."
  Seriously that's a direct quote from you-know-who. 
-{% endpullquote %}
 
 Seriously though, one goal I have is to use off-the-shelf Gems for anything not
 core to the business functionality. That includes everything from styling to

@@ -15,7 +15,7 @@ for them. Today's suggestion is [fix your e-mails][emails] dammit, if we could
 only stop sending such motivation destroying e-mails. Other days [it's those
 soul sucking meetings][meetings], won't someone think of the agendas!?
 
-{% img right /images/i-love-my-job-mug.jpg 250 %}
+<img class="right" src="/images/i-love-my-job-mug.jpg" width="250">
 
 Honestly, I think there is a critical 'correlation equals causation' fallacy
 going around here, which is that corporate culture can ever be a symptom rather

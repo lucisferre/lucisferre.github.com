@@ -130,15 +130,15 @@ language. An object can:
 2. Receive a message from itself or another object.
 3. In the course of processing a message, send messages to itself or another object.
 
-{% img right /images/yodawgcqrs.jpg 400 Yo dawg I heard you like CQRS %}
+<img class="right" src="/images/yodawgcqrs.jpg" width="400" title="Yo dawg I heard you like CQRS">
 
 Funny, this sounds exactly like what we are creating an abstraction of with CQRS.
 So, if I understand this correctly, we are creating an abstraction of OOP
 on top of our OOP..? To paraphrase another [WAT?][wat].
 
-{% blockquote Alan Kay http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented Alan Kay's definition of OOP %}
-OOP to me means only messaging, local retention and protection and hiding of state-process, and extreme late binding of all things.
-{% endblockquote %}
+> OOP to me means only messaging, local retention and protection and hiding of state-process, and extreme late binding of all things.
+
+> -- [Alan Kay](http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented)
 
 Alan Kay's opinion seems to be that what we are accomplishing with messaging
 in our CQRS should be a feature of the language, not something we should need
@@ -149,9 +149,9 @@ seems to me that dynamic languages are better able to handle extensibility,
 open-closed principle and decoupling without needing all this messaging
 ceremony and thus manage to avoid a lot of this problem entirely.
 
-{% blockquote Alan Kay http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented Alan Kay's definition of OOP %}
-Until real software engineering is developed, the next best practice is to develop with a dynamic system that has extreme late binding in all aspects.
-{% endblockquote %}
+> Until real software engineering is developed, the next best practice is to develop with a dynamic system that has extreme late binding in all aspects.
+
+> [Alan Kay](http://c2.com/cgi/wiki?AlanKaysDefinitionOfObjectOriented)
 
 I want to make it very clear I'm not suggesting CQRS isn't correct in
 principle, or that event sourcing isn't a highly valuable pattern when used
