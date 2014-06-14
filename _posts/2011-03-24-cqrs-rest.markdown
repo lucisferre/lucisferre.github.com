@@ -1,0 +1,111 @@
+---
+author: Chris Nicola
+date: '2011-03-24 07:57:40'
+layout: post
+slug: cqrs-rest
+status: publish
+title: CQRS-REST
+comments: true
+wordpress_id: '571'
+categories:
+- CQRS
+- DDD
+- REST
+---
+
+Updated: 11:07 PST (edited it a bit and expanded on a couple things, like I
+said this is rough) 
+
+Ok bear with me on this one, this is going to be pure unfiltered
+train-of-though stuff and perhaps a bit rough around the edges.  Also this may
+be a bit hard to follow for anyone unfamiliar with either [CQRS][1] or
+[REST][2].  However it's in my brain right now and it needs to come out! 
+
+<!--more-->
+
+My current project blends two trendy, bleeding edge architectural
+concepts: CQRS and REST. The easy part is using the both a little and wrapping
+one, the CQRS part, behind the other, the RESTful API. The hard part is going
+to be integrating these two concepts in a such a way that they can truly
+compliment one another and each, in turn, makes the other simpler and easier to
+implement. 
+
+In a more typical CQRS architecture we would probably just use a
+single endpoint and SOAP or RPC to wrap our command bus and query APIs (a
+really good example of a good too for this is the [Agatha framework][3] by Davy
+Brion).  However with REST we need to expose more concepts, we have
+**resources** and resources have **actions**.
+
+Again this isn’t really too hard, lets start with responsibility segregation…  
+
+**Commands**: Clearly represented by methods like POST, PUT and DELETE.  These
+are the actions of our system.  In fact if we are strict CQRS, we should favor
+PUT and DELETE since they imply idempotency to the client.
+
+POST will generally be used to expose commands that result in a new aggregate
+root, which generally will make a new resource available to the client.  How do
+I know when to use POST and not PUT?  Simple, if the command to create a
+resource is essentially identical in structure to the resulting resource it is
+a PUT (this must include its identity as well).  Otherwise we are applying a
+factory pattern (i.e., we are telling the API create me an X and tell me about
+its identity afterwards) which implies a POST instead.  Most aggregate root
+creation identity is determined by the system, hence POST. 
+
+**Queries**: Represented by GET and probably utilizing the query string to
+filter, page and in general manipulate the query response to the client. 
+
+So there is our first synergy, separation of responsibilities via our
+HTTP methods.  We also are able to more clearly express the idempotency of our
+commands which is an added bonus. 
+
+What about the fact that most REST calls return back a resource representation
+to us, is this a violation of CQRS?  I suppose if you are a stickler for the
+details it is, but assuming we still care about eventually consistency then I
+don't see this as all that important if you do then return ACCEPTED and a
+reference to the command result instead (a textbook REST pattern).   However I
+see nothing wrong with returning what the expected state should be assuming the
+command succeeded.  This is exactly the same thing a well behaved CQRS client
+will do, in this case REST is actually simplifying life for our clients which
+is exactly what we expect REST to do.
+
+Now what about longer running commands?  This is the beauty of eventual
+consistency and also the beauty of REST.  In this case we return ACCEPTED and a
+representation of the command state itself to the client.  The client can then
+check later to see it the command has completed.  Our events will update the
+command resource when it’s completed.  Here we have a couple of options: return
+the command resource with a completed state and a hypermedia link to the new or
+changed resource(s) or simply return a redirect response.
+
+This is where I see the second synergy between REST and CQRS, **choice**.  Both
+architectural principles give us far more freedom and choice when designing our
+system.  Choices allow us to tailor the system to our needs instead of relying
+on one-size-fits-all solutions like SOAP/RPC or RDBMS + N-Tier.  Freedom of
+choice is key to effectively applying DDD principles. 
+
+Finally, there is domain driven design. in a CQRS-REST system resources are
+used to expose the read model.  For those familiar with CQRS we know that our
+read models are essentially the **views** exposed by our system
+(one-model/table-per-view).  Each resource represents a potential query view
+our clients need, likewise each resource should expose the hypermedia for the
+commands that are important in the context of that view. 
+
+This is in complete harmony with the task-oriented UI concept in CQRS.  Instead
+of talking about **views** which expose ours **tasks** each of which is
+representative of a command, we are talking about **resources** which expose
+their **tasks** via their **hypermedia**.  This is, IMHO, a **huge** synergy. 
+Why?  Because our API can now more clearly express to the client application
+(and application designers) information about our domain model and about the
+business.  Moreover, we have the ability to customize that experience for
+different contexts (i.e., different client applications) by exposing more and
+different resource via our read model and event handlers. 
+
+I know, I know, **show me the code! **Sorry not today, but soon.
+
+Again I apologize for the roughness of this post, and if some of the concepts
+contained within are a bit half baked.  Coming up in the very near future will
+be a post with some real-world examples and some code.
+
+   [1]: http://cqrsinfo.com
+   [2]: http://en.wikipedia.org/wiki/Representational_State_Transfer
+   [3]: http://davybrion.com/blog/2009/12/agatha-1-0/
+

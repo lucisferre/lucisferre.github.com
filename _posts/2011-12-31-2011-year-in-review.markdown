@@ -1,0 +1,170 @@
+---
+author: Chris Nicola
+date: '2011-12-31 11:32:37'
+layout: post
+slug: 2011-year-in-review
+status: publish
+title: 2011 year in review
+comments: true
+wordpress_id: '829'
+categories:
+- goals
+- retrospective
+---
+
+![Calvin and Hobbes resolutions][1]
+
+So it's another year and time for another year in review. It's actually quite
+surprising to really look back on a year, I was taken aback by just how long it
+actually was. It seems like such an incredibly short thing but now as I look at
+my Pinboard, Twitter, Github and blog post histories these seem like they
+happened quite a while ago and so much has changed.
+
+Anyways I'm going to start this of with the raw numbers:
+
+  * Number of blog posts: **28** - Well 29 if you count this one
+  * Number of different OSS projects contributed too **8**
+  * Number of OSS projects started **2** - like [Mixpanel.NET][2]
+  * Number of startup ideas in progress **2**
+  * Number of talks given **2**
+  * Number of new languages learned (learned well that is) **2** - specifically javascript and ruby
+  * Number of blog posts on the HN front page **1** - #6
+  * Number of children **1**
+
+<!--more-->
+
+It's been a busy year, if I do say so myself (which clearly I do). Obviously,
+we had a baby, you'll notice I didn't blog about it a lot (you're welcome). A
+child really is quite a wondrous thing to behold, but they do make it much
+harder to find time in the day for everything you've planned to get done.
+Though this sort of works itself out because you sleep far, far less so it's
+almost a wash if you can manage to stave of complete and total babbling
+insanity just long enough to do something productive. I feel I had a good year
+for blog posts, I didn't come close to my goal of 50, but I did keep it fairly
+consistent considering a new baby, working on and launching a brand new product
+with iQmetrix and a lot of other things. What I do feel I did was up the
+quality of these posts quite a bit, and one even managed to make it to about #6
+on HN for a few hours. That's a first for me.
+
+A few of my personal favorites from this year:
+
+  * [MVP doesn't mean what you think][3]
+  * [Cargo cult of Steve Jobs][4]
+  * [The startup Rush][5] - The one that made HN
+  * [Microsoft and Open Source][6]
+  * [No one wants to buy your iterations][7]
+  * [Vim from start to finish][8]
+  * [Time for a corporate culture revolution?][9]
+
+I set out with a [small list of goals][10] last year and I feel did _ok_. I did
+learn basic TDD/BDD skills using Ruby, to be honest, it really wasn't much of a
+stretch from C#, just a matter of getting used to the tooling. I did _not_
+finish reading 7 languages in 7 weeks (I did manage to finish the Erlang part
+though). I did manage a fair amount of time contributing to OSS, I didn't keep
+track of it but I'm still happy with the results. I didn't write a single book
+review, and I definitely did _not_ manage to go to the gym, but nonetheless did
+manage to start some kind of growth above my waist which I'm calling my beer
+muscle.
+
+I've decided not to spend as much time setting goals for the year. I don't
+really feel like it has been these goals that have motivated me, but rather
+just a day to day focus on improving on something until I'm satisfied with it.
+I thought I would focus on doing more speaking, but in the end only bothered to
+submit one talk. What I realized is I don't want to give more talks (it isn't
+really a challenge to get accepted to speak at a conference even if your talk
+sucks) what I want is to take the time to do better talks. I've found the same
+is true for blogging, while I respect and admire [Ayende's][11] "just blog it"
+attitude, I've noticed that more and more of the blog posts I really enjoy on
+HN clearly have a lot more than 10-20 minutes of effort spent on them. It is
+that thoughtfulness and time the author spent editing that make them a pleasure
+to read and make them valuable to those who read them. That is more important
+to me than 50+ posts in a year. For everything else, there's [Twitter][12].
+
+So for this year most of my goals will simply be to make small improvements in
+the things I'm already working on. More, and hopefully better, contributions to
+OSS projects that I like and find useful. Some better blog posts and hopefully
+a couple more will make the HN front page. In the first quarter of this year I
+absolutely plan to have launched the first startup idea my wife and I have been
+working on. Ummm... I do think I'll keep the number of children at 1 for now
+though.
+
+Anyways enough about what I did, here are some of my other favorites from last
+year:
+
+### Best Blog Posts
+
+* [Return to .NET][13] - Warning significant satire ahead 
+* [The trouble with REST API's][14] - not quite the same problem with tribbles 
+* [10 papers every programmer should read][15] - Have I read them? No. But I'm sure they are great! 
+* [Startup escape path][16] - This post gave me some good ideas for personal goals in 2012, some I've already accomplished 
+* [33 unusual tips to becoming a good writer][17] - How am I doing? 
+* [How to be the luckiest guy on the planet in 4 easy steps][18] - The importance of defining a daily practice
+* [Velocity is killing agility][19] - One might argue its already dead because of stuff like this 
+* [I drink your milkshake][20] - Simple ideas to poach from your competition 
+* [Pace not deadlines][21] - If you manage a team, project or business then READ THIS! 
+* [Slide design for Developers][22] - Should say slide design for EVERYONE (especially you, powerpoint guy) 
+* [How Github works][23] - Zach has a bunch of posts on this, I suggest reading them all
+
+There were definitely a few more but it will take me hours to dig up all of them.
+
+### Best Book
+
+Without a doubt [The Lean Startup][24] (after months of ignorantly talking
+about the concept authoritatively). It is pretty much as game changing as it is
+hyped up to be, but also still over hyped in the same way that has made Agile
+such a cargo cult economy. I think it's a crucial book to read, but even more
+crucial is understanding why you can't simply imitate the behaviours and
+choices of the startups and anecdotes described in the book. To fail to take
+that lesson away from the book is to completely fail to learn anything from it.
+I'm looking forward to reading a couple of similar books now like [Four Steps
+to the Epiphany][25] and [Running Lean][26]. I may even write some reviews
+(don't count on it).
+
+### Best Talk
+
+For me this was easily [Scott Bellware's][27] talk at Agile Vancouver. He spoke
+about reconsidering the value of automated testing and TDD, not necessarily to
+say that it has no value, but that automated tests are not valuable in and of
+themselves. Having tests is not a pre-requisite for having quality, or even
+good code. Rather they represent a coupling to code which can have a
+significant negative effect if the code itself is not of good quality. This has
+made be question treating TDD as a practice by itself rather than a tool and a
+part of a process and begin to see how, in some ways, it has perhaps been
+oversold.  
+
+He talked a about designing systems with sufficient _autonomous control_ to
+them, interfaces which provide developers and testers with the ability to
+conveniently control the system to maximize the efficiency of autonomous
+testing and validation of software and quality, rather than relying mostly on
+automated testing, or brute force manual validation. The Agile Vancouver
+website should have a video of it available in the near future. I highly
+recommend watching it.
+
+   [1]: http://lh3.googleusercontent.com/-6uqdAHO8voU/Tv9pe5pkrCI/AAAAAAAAAbY/Oa2KuG6-M8M/s288/resolutions.jpg
+   [2]: https://github.com/lucisferre/Mixpanel.NET
+   [3]: http://lucisferre.net/2011/12/09/mvp-probably-isnt-what-you-think/
+   [4]: http://lucisferre.net/2011/11/18/the-cargo-cult-of-jobs/
+   [5]: http://lucisferre.net/2011/11/10/the-startup-rush/
+   [6]: http://lucisferre.net/2011/11/03/microsoft-and-open-source-still-oil-and-water/
+   [7]: http://lucisferre.net/2011/11/01/no-one-wants-to-buy-your-iterations/
+   [8]: http://lucisferre.net/2011/07/15/vim-from-start-to-finish/
+   [9]: http://lucisferre.net/2011/01/20/is-it-time-for-a-corporate-culture-revolution/
+   [10]: http://lucisferre.net/2011/01/02/2010-retrospective-and-2011-goals/
+   [11]: http://ayende.com
+   [12]: http://twitter.com/#!/lucisferre
+   [13]: http://mecodegood.tumblr.com/post/14956918719/there-and-back-again-my-return-to-net-development
+   [14]: http://www.infoq.com/news/2011/06/trouble-with-apis
+   [15]: http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
+   [16]: http://swombat.com/2011/12/15/startup-escape-path
+   [17]: http://www.jamesaltucher.com/2011/03/33-unusual-tips-to-being-a-better-writer/
+   [18]: http://www.jamesaltucher.com/2011/02/how-to-be-the-luckiest-guy-on-the-planet-in-4-easy-steps/
+   [19]: http://jimhighsmith.com/2011/11/02/velocity-is-killing-agility/
+   [20]: http://www.jpuopolo.com/2011/10/i-drink-your-milkshake-top-5-tips-to-steal-your-competitors%E2%80%99-clients/
+   [21]: http://blogs.balsamiq.com/team/2011/09/07/pace/
+   [22]: http://zachholman.com/posts/slide-design-for-developers/
+   [23]: http://zachholman.com/posts/how-github-works/
+   [24]: http://www.amazon.com/gp/product/0307887898/ref=as_li_ss_tl?ie=UTF8&tag=lucisferre-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0307887898
+   [25]: http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=lucisferre-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0976470705
+   [26]: http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=lucisferre-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1449305172
+   [27]: http://ampgt.com
+

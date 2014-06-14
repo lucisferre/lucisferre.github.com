@@ -1,0 +1,47 @@
+---
+author: Chris Nicola
+date: '2010-01-12 09:17:00'
+layout: post
+slug: my-goals-for-2010
+status: publish
+title: A brief retrospective of 2009 and my goals for 2010
+comments: true
+wordpress_id: '62'
+categories:
+- agile
+- blogging
+- goals
+---
+
+Seems lots of people are doing this these days.  Both [Scott Muc][1] and [Justice Gray][2] have posted theirs, well... Justice actually posted _yours_. Usually, I just keep an general idea of my goals in mind. This keeps my goal setting flexible, but it makes it really hard to measure my progress relative to goals and doesn't make me very accountable to them.  This year I remedying that by posting them here on my blog.  First a little retrospective of how I think I did last year.  Thinking back to early last year my goals were things like: 
+
+  * Learn and use nHibernate in my projects
+  * Learn to use messaging in service architecture
+  * Learn to use IoC framworks
+  * Start learning Agile programming
+  * Start blogging and do it regularly
+  * Read more books on coding 
+    * Specifically: Read DDD by Eric Evans
+  * Start using TDD in all my development work
+  * Begin to branch out to more clients as a contractor
+
+<!--more-->
+
+On framework learning I did fairly well,  I've become very comfortable with using nHibernate and I can comfortably configure and customize it for most situations.  For messaging, I actually learned by building a small simple message bus architecture (I will do a short blog post on it in the near future).  Inversion of control containers originally confused me, now I use Castle Windsor IoC container in every new project I start. In the agile category, I invested quite a bit of time into books like "Clean Code" and "Pragmatic Thinking and Learning" as well as many of the "agile themed" blogs.  I attended both DevTeach and the excellent Much Ado About Agile conference put on by Agile Vancouver this year.  Both conferences were incredible learning experiences for me at this stage in my career. I've kept up with my blogging as well. It has been something I really enjoy and I find it is helpful to write about my work and what I am learning.  It is an excellent way to reflect on things.  Since starting this blog in May I have managed 66 posts and 6 in December alone.  My goal was to average one a week so I'd say that was achieved handily. my reading goals fell short a bit.  I finished most of "Clean Code" and all of "Pragmatic Thinking and Learning", but I really wanted to complete DDD and some of the other "masterworks".  That said, I did manage to read a lot of blog posts this year.  I also learn by doing, so much of my learning came from writing code and reading code in open source projects.    I'd maybe give myself a B- here, but I was never really a hard marker as a T.A. so. TDD was a real challenge too.  I've learned that it is a technique that requires time and practice to master.  I've learned to write tests and can use them to drive my design, but I am not sure that I feel confident in my TDD use yet.  This year I will continue to practice my TDD and also explore BDD. Where I made no progress whatsoever was exploring work opportunities with new clients.  While I certainly did not lack for work (my sole client always has something on the go) it is still very important for me to form new business relationships.  This is an area I will definitely not neglect in the early part of this year. Of course those were not the only things I managed to cram into last year (I also have been learning Salsa!) just a some goals I had in mind early last year. My goals (so far) for 2009 are as follows (I'll stick to my professional goals and leave the salsa dancing out): 
+
+  * **Read Domain Driven Design** _and_ the new chapter Eric Evans gave me at the conference (if I read nothing else I will read this book this year)
+  * Develop at least two new client relationships
+  * Complete the first release candidate for Graphite
+  * Contribute to at least one open source project
+  * Practice my TDD technique and start learning BDD
+  * Organize discussions/talks with ALT.NET locally
+  * Submit at least one presentation/talk to a conference (doesn't have to be a big one)
+  * And of course. be more like [Justice Gray][3] (or at least try to make my blog posts a little less dry)
+  * Learn Ruby on Rails (if I still have time after everything else)
+
+I think those are some pretty good goals to start with for this year.  As I said, I like to be flexible so I will try to review these every few months to see if I still have the same goals.  Now I just need to work on a plan to achieve all these goals.
+
+   [1]: http://scottmuc.com/blog/development/my-developer-resolutions-for-2010/
+   [2]: http://graysmatter.codivation.com/post/Your-2010-New-Years-Resolutions-%28thats-right-I-said-yours%29.aspx
+   [3]: http://graysmatter.codivation.com/
+

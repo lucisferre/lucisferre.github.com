@@ -1,0 +1,52 @@
+---
+layout: post
+title: "2013 Year in Review"
+date: 2014-01-02 07:50
+comments: true
+external-url: 
+categories: 
+---
+
+This is my fifth "year in review" post since starting this blog, which is kind
+of a milestone itself I suppose. It's interesting to look back at all of the
+previous ones and see just how much has changed. While sadly it hasn't been a
+good year for blogging (only 4 posts) it's definitely been an incredible year
+by all other measurements.
+
+<!--more-->
+
+This year continued to build on the momentum of the last. It was my second year
+working out of of .NET. I'm continuing to do web development on Ruby and Rails
+but find myself largely focused on HTML, JS/Coffeescript and CSS working with
+AngularJS (I've actually run a couple of tutorials on Angular). 
+
+We held a second hugely successful Polyglot Conference and the Polyglot Beers
+meetup (which replaced ALT.NET Beers) is probably the largest regular social
+meetup for developers in the city. The Polygot non-profit has also expanded
+somewhat and is providing logistics support and acting as a non-profit for
+other conferences in Vancouver like Devops days and CascadiaJS.
+
+This was also my first year working full-time on my own startup
+[WealthBar](http://www.wealthbar.com). We've now raised a some seed funding and
+have a team of five. If everything goes according to plan we should be open for
+business in a few months. (In the meantime you can signup early and get a free
+financial plan.)
+
+This year I've also managed to successfully commit to serious exercising
+something that up until this point in my life had been a struggle. A big help
+with comitting to self improvement has been working with a personal coach,
+[Scott Ward](http://www.habitstack.com/). I'll probably write a bit more about
+that experience in the near future, suffice to say, having someone hold me
+accountable to my efforts to develop better habits and stay focused on my goals
+has been invaluable.
+
+Going forward here are some habits I want to focus on this year:
+
+* Reading daily (at least 30 minutes and books not internet news sites)
+* Writing at least every other week (either for WealthBar or this blog)
+* Serious studying at least a couple of times a week, specifically around
+  investing and finance. I'm considering doing the Canadian Securities Course
+  to start and considering getting a financial profession designation.
+
+As for 2014, it's looks like it's going to be to be as exciting as ever. Cheers
+and happy new year everyone!

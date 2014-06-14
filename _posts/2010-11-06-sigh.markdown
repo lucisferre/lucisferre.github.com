@@ -1,0 +1,129 @@
+---
+author: Chris Nicola
+date: '2010-11-06 11:07:49'
+layout: post
+slug: sigh
+status: publish
+title: Sigh…
+comments: true
+wordpress_id: '230'
+categories:
+- rant
+---
+
+![facepalm][1]
+
+I apologise in advance to the very small number of readers (most of them close
+friends) who will have to suffer through my rant below. I debated not posting
+this since it really is just a meandering rant, but in the end it's my blog and
+I'll post what I want to. 
+
+If you were not on [Hacker News][3] or [Proggit][4] last night you may not
+heard this [story][5] about a sexual assault during ApacheCon.  What makes this
+story interesting---other than the clearly shocking nature of it of course---is
+the fact that the victim has decided to post very publicly on her [blog][6]
+about it and go as far to name her attacker---alleged obviously, since at this
+point this must be treated as an allegation. Though, I think, fair
+consideration should be granted to the likelihood of it being the truth---a man
+who was a fellow conference presenter.
+
+<!--more-->
+
+I'm not going to name either party, if only to prevent this post from becoming
+a hit in the search results, so you'll have to read it for yourself. I don't
+think there is much to be gained by taking sides at this point, but I still
+find it disappointing to read the most upvoted responses in both of the comment
+discussions. I think these have sad and troubling implications and expose just
+how disconnected from the real world many men in our community really
+are. Unsurprisingly, the Hacker News discussion is much more intelligent and
+reasoned, but the problem in both cases is this implication that there is any
+argument to be made that the victim bears even a little responsibility for
+this---again assuming the likely truth behind the allegations---or that it was
+wrong for her to post publicly about it without bringing official charges
+first. 
+
+As prime examples, first, there is [this heavily upvoted reddit comment,][7]
+which suggests it is wrong for her to post publicly about this without
+indicating that she has pressed charges or involved the authorities. While it
+is obvious that an accusation such as this should probably be backed up with
+charges, it is far from being required. This is made more pathetic given that
+the author continues to stand by his conviction even after finding out later
+that official charges have been made. It should be completely obvious to
+anyone, that victims of assault can and should be allowed to use their blog to
+speak out publicly, even to the point of wielding it as a weapon to try to
+take back some of their dignity. It is surprising---well, sadly, not
+really---that the same reddit community that is lightning fast when demonizing
+allegations of police brutality during protests, is unwilling to give the
+benefit of the doubt when confronting accusations of something far more
+common---though it is perhaps unfair to compare proggit with reddit in general. 
+
+The desire among many seems to be to see the accused---likely because of the
+serious social and possibly professional repercussions he will now face---as
+something of an underdog in this story and to root for him.  This is completely
+wrong. He is _not_ the underdog, one look at the statistical data regarding
+violence against women should be enough to make that fact abundantly clear. In
+fact, in general, in our modern western society, we go to great lengths to
+_encourage_ victims to speak publicly about their experiences, with out this
+other victims will also feel there is a futility to speaking out.  That anyone
+in our community---software developers, that is---believes this is, in any way,
+wrong shows a lack of sympathy for the reality many women face. The support
+this misguided point of view is receiving in these forums, taints us all an
+implies that as a community we believe that victims should not speak out unless
+they have incontrovertible evidence. An attitude that personally, I do not wish
+to be associated with. 
+
+Yes, I do understand that false accusations happen, this is probably the
+saddest and most troubling fact about sexual assault. However, even the boy who
+cried wolf was given the benefit of the doubt 2 out of 3 times. So considering
+the very small minority of cases where the accusations do turn out to be false,
+even logic would dictate that the benefit of the doubt be given The
+"screenshots or it didn't happen" attitude is completely childish. 
+
+Hacker News can generally be relied upon for higher level a maturity and
+seriousness than is typically found on reddit. Nonetheless we can find this
+fairly popular comment from "[captain obvious][8]" where the author suggests
+that while the story is tragic and likely true, the victim, should take care
+remember she is ultimately responsible for, and must be aware at all times of,
+her own safety, "because if we don't look after ourselves who will?"
+(paraphrased). Well duh... I can see how relevant and insightful and _not_
+totally obvious this statement is. It's clear to me how much more important
+this is than the very serious implications of what may---and likely did---happen
+and what is going to happen next. The comment's author even admits that the
+victim did in fact do all she could, which is why it's so hard to tell why his
+contribution to the discussion was considered so valuable by those who upvoted
+his post. 
+
+In another comment [post][9] the author concerned far more with the fact that
+her blog post is associating sexual assaults with our beloved developer
+conferences, and is quick to point out this actually happened _outside_ the
+conference. I don't know about others out there, but the meet-ups I attend
+with fellow conference goers out at pubs and/or restaurants afterwards always
+make for some of the most interesting and engaging discussions. They are a huge
+part of the experience and fun for me. Are we really trying to suggest that
+these events are too dangerous for women to attend? It's this thought that
+really angers me so much. The sad reality that we've actually got a few members
+of our community who feel that they'd rather have female attendees avoid the
+extracurriculars to avoid development conferences---and consequently male
+developers---becoming associated with sexual assaults.
+
+With all that off my chest, I want to say I _don't_ want to paint the developer
+community with such broad strokes simply based on a few socially 'challenged'
+individuals, and I recognise that online meritocracies like reddit and HN
+occasionally promote, perhaps unintentionally, the collective ignorance of a
+few and should not be considered an accurate representation of the whole.
+However, it is still clear we have a serious problem here and **those of us
+still capable of rational thought need to stand up and say something about
+it. The alternative is to allow those who are not to speak on behalf of us.**
+
+/rant off
+
+   [1]: /images/facepalm_thumb.jpg (facepalm)
+   [2]: /images/facepalm.jpg
+   [3]: http://news.ycombinator.com/item?id=1875718
+   [4]: http://www.reddit.com/r/programming/comments/e20ct/a_hell_of_a_time_sexual_assault_at_tech/
+   [5]: http://blog.nerdchic.net/archives/418/
+   [6]: http://blog.nerdchic.net/
+   [7]: http://www.reddit.com/r/programming/comments/e20ct/a_hell_of_a_time_sexual_assault_at_tech/c14nozg
+   [8]: http://news.ycombinator.com/item?id=1876011
+   [9]: http://news.ycombinator.com/item?id=1875822
+

@@ -1,0 +1,145 @@
+---
+layout: post
+title: "2012 year in review"
+date: 2013-01-01 13:23
+comments: true
+external-url:
+categories:
+- goals
+- retrospective
+---
+
+{% img /images/resolution-cat.jpg %}
+
+This last year was spent entirely immersed in startup land working with Ruby on
+Rails, HTML5, CSS3 and javascript and coffeescript. It's been a great
+opportunity to really work on my web skills, and it's certainly been more fun
+than ever. Now as I look back on all the new experiences, I'm also looking
+forward to finally starting to focus more on launching my own startup,
+[WealthBar](http://wealthbar.com) along with my wife.
+
+Some of my personal highlights for this year are...
+
+  * Organizing the inaugural Polyglot Conference with some awesome people
+  * My first [pull request][railspull] to the Rails project
+  * Working at a startup for the first time
+  * Preparing to launch my own startup [WealthBar](http://wealthbar.com)
+  * ...and of course, Polyglot Beers!
+
+Now for something a little different here are my top 3 posts ordered simply by
+page views:
+<!-- more -->
+
+  1. [.NET, so long and thanks for all the fish][fish] was an unexpected
+     favorite. After making the HN frontpage it managed to start all sorts of .NET
+     drama, good times. [Here's the HN thread](https://news.ycombinator.com/item?id=3586883)
+  2. [In which I do a partial about face on CQRS][cqrs] was a far distant second.
+     CQRS and event sourcing are starting to see a lot of attention in the .NET and Java
+     world this year, not unlike DCI is in the Ruby world. It appears the right way to do OOP is
+     still pretty controvercial.
+  3. [What's so great about Bootstrap][bootstrap], in which I gush over how great
+     the framework is for learning solid CSS and HTML techniques. Heck, I even like
+     the way the javascript components are done.
+
+As for *my* favorite post, I'll go with this counter to the [501 developer manifesto][501].
+Though hacking HTML5 to "[control the future][future]" was a close second, and a ton of fun.
+
+Also a lot of fun, was organizing Vancouver's first (I think) open
+space for developers. The [Polyglot Conference][polyglot] is a
+"non-denominational" event to bring developers from different stacks and
+languages together. Since we all felt it was a great success and the feedback
+was good **[we're doing it again this year][pg2013]** (more details to follow soon).
+
+## My 2012 Favorites
+
+### Blog Posts
+
+[Where's \_why?](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html):
+As I got into Ruby long after \_why "disappeared" this was a good read for me to finally get familiar with the history there.
+It's a pretty thorough article on who he was and what happened. If you're not familiar
+with \_why's work, give it a read.
+
+Sexism in tech was something of a theme this year (with some good reason). I particularly enjoyed
+[this satire](http://wekeroad.com/2012/05/11/men-in-tech) from
+Rob Conery. This "[primer](http://www.netmagazine.com/features/primer-sexism-tech-industry)" by
+Faruk Ates, provides an excellent breakdown of these issues and some of the reasons why we are
+often oblivious. Faruk has a number of other good posts on
+the subject so check out his [blog](http://farukat.es). Finally, for those of us
+involved in organizing conferences or similar events, Eric Evans has some sage advice
+on [solving the pipeline problem](http://www.startuplessonslearned.com/2012/11/solving-pipeline-problem.html)
+I highly recommend reading it.
+
+Now while some developers seemed fed up with all the dialog on sexism in tech,
+my personal pet peeve was REST. Worn out after spending the better part of 2011
+building "RESTful" APIs, I've decided to step back and wait for the dust to
+settle a bit. There are a lot of interesting, but pretty academic debates going
+on, and I just don't seem to have the patience to care right now. Once again
+Rob Conery [sums up the situation with some great humor](http://wekeroad.com/2012/02/28/someone-save-us-from-rest/)
+better than I ever could.
+
+### Talks
+
+There were some great [Oredev talks][videos] this year, all of which are available to watch online.
+In particular Reg Braythwayt's [the rebellion imperative][rebel], Scott Barnes',
+[unpacking the MS roadmap][ms] and Zed Shaw's talk  [teaching programming][zed].
+I still have not watched a fraction of the awesome videos from Oredev, and I'm
+really hoping somehow I can manage to go next year, it looks like an amazing
+event.
+
+### Books
+
+This year's books have definitely been startup oriented as that seems to be what
+consumes most of my time these days and if I had to pick just one it's gonna be
+Steve Blank's [the Startup Owner's Manual][som]. This is an incredible resource,
+definitely not something you read all at once, but hugely valuable to anyone
+involved in building startups and product development. You can also take his
+online courses through
+[Udacity](http://www.udacity.com/overview/Course/ep245/CourseRev/1C)
+
+However, since I don't have to pick just one, I'm also really enjoying [Venture Deals][vd]. 
+Venture Capital and shareholders agreements are not exactly rocket
+science, but they're complex enough I think anyone getting into them for the
+first time should have a decent guide. This is a decent guide.
+
+Finally, for a very funny and informative HTML5 reality
+check, grab a copy of [the Truth about HTML5][html5]. Necessary reading, in my
+opinion, for anyone just starting to look at the new HTML5 standards. There's
+a lot of cool things happening as web standards evolve but it's good to see the
+forest for the bikesheds.
+
+## Github
+
+I started starring Github projects a lot just to keep up with all the good ones. Here are some I think are worth checking out:
+
+  * [spf-13][spf13]: A VIm default setup that's finally done right. Highly
+    configurable but with a sane starting point (and they take pull requests).
+  * [tmux-powerline][powerline]: Super cool status bars for tmux.
+  * [better_errors][be]: Better error pages (thank god) for Rails.
+  * [thoughtbot/laptop][laptop]: Great example of environment setup scripts from Thoughtbot.
+  * [rickshaw][rickshaw]: A great chart API that works on top of D3 (serious alterantive to Highcharts imo).
+
+Well that's it, on the whole, I felt 2012 was definitely a good year, and 2013
+is already shaping up to be way better. Life is good. To anyone who cared enough
+about my year to get this far (and those who just skipped to the end) happy
+`year++`; and all the best for 2013.
+
+[spf13]: https://github.com/spf13/spf13-vim
+[powerline]: https://github.com/erikw/tmux-powerline
+[be]: https://github.com/charliesome/better_errors
+[laptop]: https://github.com/thoughtbot/laptop
+[rickshaw]: https://github.com/shutterstock/rickshaw
+[fish]: http://lucisferre.net/2012/02/08/dot-net-so-long-and-thanks-for-all-the-fish/
+[cqrs]: http://lucisferre.net/2012/01/30/some-complaints-about-cqrs-and-event-sourcing/
+[bootstrap]: http://lucisferre.net/2012/06/27/whats-so-great-about-twitter-bootstrap/
+[501]: http://lucisferre.net/2012/04/19/reclaiming-the-501-developer-manifesto/
+[future]: http://lucisferre.net/2012/12/20/controlling-the-future-with-the-history-api/
+[polyglot]: http://polyglotconf.com
+[pg2013]: http://lanyrd.com/2013/polyglotconf/
+[railspull]: https://github.com/rails/rails/pull/8458
+[rebel]: http://oredev.org/2012/sessions/the-rebellion-imperative
+[ms]: http://oredev.org/2012/sessions/unpicking-the-microsoft-roadmap
+[zed]: http://oredev.org/2012/sessions/its-not-you-its-them-why-programming-languages-are-hard-to-teach
+[videos]: http://oredev.org/2012/videos
+[som]: http://www.amazon.com/gp/product/0984999302/ref=as_li_ss_tl?ie=UTF8&tag=lucisferre-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0984999302
+[vd]: https://www.amazon.com/dp/0470929820/ref=as_li_ss_til?tag=lucisferre-20&camp=0&creative=0&linkCode=as4&creativeASIN=0470929820&adid=10Q97A5380EXCMS8BF7T&
+[html5]: http://www.amazon.com/Truth-About-HTML5-Web-Designers/dp/1479158569/ref=sr_1_1?s=books&ie=UTF8&qid=1357080227&sr=1-1&keywords=the+truth+about+html5
