@@ -38,5 +38,5 @@ recipe that's worked out particularly well.
 If you'd like can also follow me on twitter [@chrismnicola][4].
 
    [1]: /images/chrisnicola-234x300.jpg (chrisnicola)
-   [4]: https://twitter.com/#!/chrismnicola
+   [4]: https://twitter.com/chrismnicola
 
