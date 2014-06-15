@@ -22,29 +22,12 @@ First some good news is that the latest Hg checkins on the Codeplex site include
 
 I've been tracking my spam since adding the Type Pad filter and after 415 spam messages here are some results:
 
-**Filter**
-**Spam Checked**
-**Spam Missed**
-**Spam Caught**
-**% spam remaining**
+| Filter  | Spam Checked | Spam Missed | Spam Caught | % Spam Remaining |
+| ------  | ------------ | ----------- | ----------- | ---------------- |
+| SFS     | 414          | 241         | 173         | 58.2%            |
+| Akismet | 241          | 45          | 193         | 10.9             |
+| TypePad | 45           | 22          | 23          | 5.3%             |
 
-**SFS**
-414
-241
-173
-58.2%
-
-**Akismet**
-241
-45
-196
-10.9%
-
-**Type Pad**
-45
-22
-23
-5.3%
 The filters use a fall-through approach.  Any approved messages are passed onto the next filter in the list.  If any filter detects spam it is simply marked as spam and is not passed on further. 
 
 Now the checked/caught numbers are a bit inflated since the blacklist was turned off (actually I broke it) which meant some of this is obvious repeat spamming.  The key metric is what made it all the way through to the last filter.  It managed to catch 50% of the remaining spam that was previously getting through.  Now this data doesn't suggest that Type Pad is better than Akismet, merely that using both together can cut down the missed spam by 50%.
