@@ -44,7 +44,7 @@ are released (at least the ones who aren't forced to keep behind at work).
 Which leads to my next point, which is if we don't need to support IE8 we don't
 need to support IE9 anymore either.
 
-![IE Browser Share](/images/browser-states.png)
+![IE Browser Share](/images/browser-stats.png)
 
 Source: <a href="http://gs.statcounter.com/#browser_version_partially_combined-na-monthly-201302-201308">StatCounter Global Stats - Browser Version (Partially Combined) Market Share</a></p>
 
