@@ -21,7 +21,7 @@ $avocado-accent-color: #568203;
 body {
   background-color: $site-background-color;
   border-top: 5px solid $contrast-color;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', sans-serif;
   color: $contrast-color;
   font-weight: 400;
   line-height: 1.5;
@@ -65,7 +65,7 @@ hr {
 }
 
 code {
-  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-family: 'Source Code Pro', 'Menlo', 'Monaco', Consolas, "Liberation Mono", Courier, monospace;
   font-size: .8rem;
 }
 
