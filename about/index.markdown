@@ -35,8 +35,8 @@ bread, brewing beer, drinking beer, and photography so I may occasionally break
 from the regularly schedule programming to post up new sets of photos or a new
 recipe that's worked out particularly well.
 
-If you'd like can also follow me on twitter [@lucisferre][4].
+If you'd like can also follow me on twitter [@chrismnicola][4].
 
    [1]: /images/chrisnicola-234x300.jpg (chrisnicola)
-   [4]: https://twitter.com/#!/lucisferre
+   [4]: https://twitter.com/#!/chrismnicola
 
