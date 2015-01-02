@@ -1,0 +1,92 @@
+---
+layout: post
+title: "2014-year-in-review"
+date: "Thu Jan 01 15:30:46 -0800 2015"
+comments: true
+---
+
+Some years you blog, others you just retrospect. Actually despite only writing
+two posts this year, I managed to blog a fair bit over at [the WealthBar blog][1],
+so if you want to read my thoughts on personal finance and investing check that
+out. Nonetheless this has been one of my most interesting and challenging years
+so far. I don't think anything could really have prepared me for the realities
+of starting a business, but it has been extremely rewarding all the same.
+
+<!--more-->
+
+## 2014 Highlights
+
+Obviously [launching Canada's first completely online wealth management
+firm](http://blog.wealthbar.com/wealthbar-is-officially-launched/) has to be the
+biggest highlight this year. It was a long hard road to get here and one that
+promises to offer even more challenges as we grow and as more clients join us
+each day. Nonetheless, there is nothing that motivates me more each morning than
+getting up and knowing I'll be working at WealthBar. I'm also working with some
+absolutely amazing people.
+
+The Polyglot conference had it's third consecutive year and we're already
+making preparations for the fourth, it has grown larger with each year and
+we've also continued to help other local events logistically such as Devops
+Days and Erlang Factory Lite.
+
+I've also really enjoyed my continuing work with web development this year. The
+changes happening with HTML, CSS and JS can be frustrating at times, but they
+are also really exciting. [Tyler Kellogg](https://github.com/recurrenc://github.com/recurrence)
+who just joined us, recently showed me some incredible AngularJS code that
+takes advantage of ES6 features and the more modern components structure that
+has really rekindled my love of AngularJS, something I was starting to feel a
+bit of frustration with, but I think I'm at peace with it now.
+
+Finally, I started playing D&D this year for the first time since I was
+probably about 14 years old, Tea plays with me as well. Surprisingly, I had
+kept my old game dice this whole time too. Suppose I always knew I'd play it
+again someday. We're playing through a pretty epic pre-written campaign called
+Tsar, which has been a lot fun. I think we're just starting to get into the
+endgame after many months of play. It has quickly become one of the things I
+really look forward to each week.
+
+## Personal Development
+
+I'm happy to say I've been able to stick to a dedicated twice a week regimen of
+exercise. I work with a trainer twice a month and follow a program for the rest
+of the month. It's been working great and I've so far managed to not fall off
+the wagon (well alright, I took the last week off).
+
+I've also managed to keep coding, I'd say at least half of my time is still
+spent writing code. Keeping it at that level has been a challenge. There are
+many new responsibilities on my plate: HR, product development, content
+strategy and marketing. But I don't think I'll ever want to stop writing code.
+
+## Interesting Reading
+
+I didn't really put a lot of effort into tracking my reading this year.
+Something to work on next year I think. Regardless, here is a very short, and
+likely very incomplete, list of some interesting things I read online this
+year.
+
+1. [An Open Letter on Feminism in Tech][2]
+2. [Monkeys can Beat Market Cap Indicies][3]
+3. [Thoughts on Startup School][4] 
+4. [The Oil Crisis Explained in 3 Minutes][5]
+
+I also really enjoyed reading [Hedge Fund Wizards][6] by Jack Schwager. Whether or
+not you agree with hedge funds and active trading, the interviews with some of
+the top hedge fund managers are still very fascinating and insightful. These
+are very smart people with very unique perspectives on investing and economics.
+
+The Ed Thorp interview (if you haven't heard of him, he was also the guy who
+cracked Blackjack with Claude Shannon using probability theory) is worth the
+price of book alone.
+
+## Onwards to 2015!
+
+There aren't really words for just how excited I am for 2015 and everything
+that's happening with WealthBar. It has been extremely rewarding to build
+something that is really starting to help people save their money.
+
+[1]: http://blog.wealthbar.com
+[2]: https://modelviewculture.com/pieces/an-open-letter-on-feminism-in-tech
+[3]: http://www.cass.city.ac.uk/news-and-events/news/2013/april/monkeys-beat-market-cap-indices
+[4]: http://www.daemonology.net/blog/2014-10-18-thoughts-on-startup-school.html
+[5]: http://blog.nvestly.com/oil-crisis-explained-in-3-minutes/
+[6]: http://www.amazon.com/gp/product/1118273044/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118273044&linkCode=as2&tag=lucisferre-20&linkId=VSRGNFXABA4WOAJF
