@@ -10,7 +10,7 @@ collections:
     output: true
 email: chnicola@gmail.com
 description: Thoughts on software, startups and relentless improvement.
-baseurl: ''
+baseurl: 
 markdown: redcarpet
 permalink: "/:year/:month/:day/:title/"
 highlighter: pygments
@@ -20,4 +20,4 @@ redcarpet:
   - tables
 sass:
   sass_dir: css
-  style: :compressed
+  style: compressed
