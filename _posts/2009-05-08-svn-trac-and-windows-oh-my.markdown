@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-05-08 22:55:20'
-layout: post
-slug: svn-trac-and-windows-oh-my
-status: publish
 title: SVN, Trac and Windows, oh my!
-comments: true
-wordpress_id: '89'
+date: 2009-05-08 22:55:20 Z
 categories:
 - svn
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '89'
 ---
 
 All I have to say is ugh ![Annoyed][1]. While many of the Linux based open source projects are able to run under Windows, and some even have slick installers, there always seems to be some degree of frustration involved in getting them to work. I think it is some kind of punishment for using Windows to run these programs in the first place. 

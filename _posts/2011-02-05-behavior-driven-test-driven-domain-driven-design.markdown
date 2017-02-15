@@ -1,18 +1,17 @@
 ---
-author: Chris Nicola
-date: '2011-02-05 16:54:52'
-layout: post
-slug: behavior-driven-test-driven-domain-driven-design
-status: publish
 title: Behavior Driven, Test Driven, Domain Driven Design
-comments: true
-wordpress_id: '293'
+date: 2011-02-05 16:54:52 Z
 categories:
 - BDD
 - CQRS
 - DDD
 - nCQRS
 - TDD
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '293'
 ---
 
 Ah, the joys of xDDs, you can never use too many, right? One of the many

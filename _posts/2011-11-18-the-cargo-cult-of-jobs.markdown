@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2011-11-18 08:30:03'
-layout: post
-slug: the-cargo-cult-of-jobs
-status: publish
 title: The cargo cult of Jobs
-comments: true
-wordpress_id: '790'
+date: 2011-11-18 08:30:03 Z
 categories:
 - Uncategorized
 - lean startup
 - startup
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '790'
 ---
 
 ![Cargo Cult of Jobs][1]

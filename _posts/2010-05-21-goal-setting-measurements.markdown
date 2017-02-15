@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2010-05-21 07:56:00'
-layout: post
-slug: goal-setting-measurements
-status: publish
 title: 'Goal setting: Measurements'
-comments: true
-wordpress_id: '79'
+date: 2010-05-21 07:56:00 Z
 categories:
 - agile
 - goals
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '79'
 ---
 
 Early this year [I set out a list of goals][1] and reviewed what I felt my goals for last year would have been had I bothered to take note of them.  However, set and forget is all to easy with goals and so I am going to also try to review them a few times this year (basically every quarter). 

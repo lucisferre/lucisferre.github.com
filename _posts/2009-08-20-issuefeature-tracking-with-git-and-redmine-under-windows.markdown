@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-08-20 02:50:00'
-layout: post
-slug: issuefeature-tracking-with-git-and-redmine-under-windows
-status: publish
 title: Issue/feature tracking with Git and Redmine under Windows
-comments: true
-wordpress_id: '37'
+date: 2009-08-20 02:50:00 Z
 categories:
 - agile
 - git
 - Redmine
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '37'
 ---
 
 Over the last couple weeks, we've been trying to pick out a solid combination of tools for a Windows based dev environment.  The key components are: source control (SCM), continuous integration (CI) and issue/bug tracking.  _Our choices_: _Git_ for SCM, _TeamCity_ for CI and _Redmine_ for issue/feature tracking.

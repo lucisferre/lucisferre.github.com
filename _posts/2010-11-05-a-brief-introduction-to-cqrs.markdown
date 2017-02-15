@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-11-05 05:49:00'
-layout: post
-slug: a-brief-introduction-to-cqrs
-status: publish
 title: A brief introduction to CQRS
-comments: true
-wordpress_id: '221'
+date: 2010-11-05 05:49:00 Z
 categories:
 - CQRS
 - DDD
 - event sourcing
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '221'
 ---
 
 I had the opportunity recently to speak on CQRS at both Vancouver TechDays and Agile Vancouver and I felt I should put up a summary of the talk on my blog, so here it is.  This is just intended as an introduction but I’ve included a number of useful links at the end where you can get more info.  I’d like to do some “deep dive” posts in the future, but I’m not promising anything. 

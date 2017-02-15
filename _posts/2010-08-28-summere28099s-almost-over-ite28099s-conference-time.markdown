@@ -1,12 +1,6 @@
 ---
-author: Chris Nicola
-date: '2010-08-28 10:46:19'
-layout: post
-slug: summere28099s-almost-over-ite28099s-conference-time
-status: publish
 title: Summer’s almost over, it’s conference time
-comments: true
-wordpress_id: '84'
+date: 2010-08-28 10:46:19 Z
 categories:
 - agile
 - alt.net
@@ -15,6 +9,11 @@ categories:
 - lean
 - TechDays
 - Agile Vancouver
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '84'
 ---
 
 Well it's almost Fall in Vancouver, and that means both TechDays and the [Agile Vancouver][1]: Much Ado about Agile conferences are coming up.  Last year unfortunately I missed TechDays, but I am fortunate this year to have the opportunity to go to both.

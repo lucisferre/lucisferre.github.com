@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-11-03 10:30:03'
-layout: post
-slug: microsoft-and-open-source-still-oil-and-water
-status: publish
 title: 'Microsoft and Open Source: Still Oil and Water?'
-comments: true
-wordpress_id: '714'
+date: 2011-11-03 10:30:03 Z
 categories:
 - Microsoft
 - OSS
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '714'
 ---
 
 ![][1]

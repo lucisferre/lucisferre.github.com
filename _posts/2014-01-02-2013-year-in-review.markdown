@@ -1,10 +1,9 @@
 ---
+title: 2013 Year in Review
+date: 2014-01-02 07:50:00 Z
 layout: post
-title: "2013 Year in Review"
-date: 2014-01-02 07:50
 comments: true
 external-url: 
-categories: 
 ---
 
 This is my fifth "year in review" post since starting this blog, which is kind

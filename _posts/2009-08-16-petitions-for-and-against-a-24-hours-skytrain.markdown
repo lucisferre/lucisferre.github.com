@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-08-16 01:36:00'
-layout: post
-slug: petitions-for-and-against-a-24-hours-skytrain
-status: publish
 title: Petitions for (and against) a 24 hours Skytrain
-comments: true
-wordpress_id: '36'
+date: 2009-08-16 01:36:00 Z
 categories:
 - Vancouver
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '36'
 ---
 
 A while ago I signed up for the Facebook group [the petition to keep the Skytrain open 24-hours ][1](personally I find these thing to be kind of weak but whatever, it's easy right?). It has always bugged me that a system designed to run nearly automatically is shut down for a measly 4 hours right as bars and clubs are closing.  In fact, it seems particularly unfair to those who work in Vancouver's night clubs and bars. Generally, it seems to me that anything that could help get this city better transit is a good thing.

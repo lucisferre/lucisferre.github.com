@@ -1,18 +1,17 @@
 ---
-author: Chris Nicola
-date: '2011-08-12 08:41:44'
-layout: post
-slug: more-quality-time-with-nancy
-status: publish
 title: More quality time with Nancy
-comments: true
-wordpress_id: '641'
+date: 2011-08-12 08:41:44 Z
 categories:
-- .NET
+- ".NET"
 - Github
 - NancyFx
 - OSS
 - Windsor
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '641'
 ---
 
 The project I'm working on uses Nancy pretty extensively for the RESTful API

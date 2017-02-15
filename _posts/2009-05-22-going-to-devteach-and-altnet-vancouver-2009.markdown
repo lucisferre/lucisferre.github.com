@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-05-22 16:56:00'
-layout: post
-slug: going-to-devteach-and-altnet-vancouver-2009
-status: publish
 title: Going to DevTeach and ALT.NET Vancouver 2009
+date: 2009-05-22 16:56:00 Z
+categories:
+- ".NET"
+- alt.net
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '7'
-categories:
-- .NET
-- alt.net
 ---
 
 [http://www.devteach.com/Index.aspx][1]

@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-03-03 11:15:00'
-layout: post
-slug: mvvm-and-virtualizingstackpanel-wpf
-status: publish
 title: 'MVVM and VirtualizingStackPanel: WPF!!?'
-comments: true
-wordpress_id: '68'
+date: 2010-03-03 11:15:00 Z
 categories:
-- .NET
+- ".NET"
 - fail
 - MVVM
 - WPF
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '68'
 ---
 
 **Update**: Part two of this post with the solution I ended up using is available [here][1].

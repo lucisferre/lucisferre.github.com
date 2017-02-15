@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-07-29 04:19:00'
-layout: post
-slug: enterprise-library-validation-3d-0
-status: publish
 title: Enterprise Library Validation != 0
+date: 2009-07-29 04:19:00 Z
+categories:
+- ".NET"
+- fail
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '30'
-categories:
-- .NET
-- fail
 ---
 
 There has to be a better way to tell Microsoft's Enterprise Library's Validators that zero is invalid...

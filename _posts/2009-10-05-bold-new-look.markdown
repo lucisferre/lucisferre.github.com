@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-10-05 07:54:00'
-layout: post
-slug: bold-new-look
-status: publish
 title: A Bold New Look!
-comments: true
-wordpress_id: '43'
+date: 2009-10-05 07:54:00 Z
 categories:
 - blogging
 - css
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '43'
 ---
 
 I used some free time this weekend (actually almost all my free time) to create a custom theme for BlogEngine.NET.   I wasn't entirely satisfied with the themes available, though some are nice, most are a bit bland, also they tend to be a bit out of date and don't support the new sidebar widgets.

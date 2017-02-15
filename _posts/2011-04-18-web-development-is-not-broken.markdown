@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-04-18 08:55:43'
-layout: post
-slug: web-development-is-not-broken
-status: publish
 title: Web Development is not Broken
-comments: true
-wordpress_id: '577'
+date: 2011-04-18 08:55:43 Z
 categories:
 - rant
 - web
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '577'
 ---
 
 …it's just the natural result growth, advancement and change in the technology.

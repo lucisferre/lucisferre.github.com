@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-09-22 21:54:00'
-layout: post
-slug: please-stand-by
-status: publish
 title: Please stand by…
-comments: true
-wordpress_id: '41'
+date: 2009-09-22 21:54:00 Z
 categories:
 - blogging
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '41'
 ---
 
 I'm sure someone said once, "if something is worth doing, it's worth doing right".  I am firmly of the opinion this asshole had a lot of free time on his hands.  Nonetheless, once I start on something I tend to obsess till I either tire myself out or I am satisfied.  This has definitely been true of my decision to change blog software to a .NET blog (and as a prerequisite select a new hosting provider).  I have spent a bit more time than I probably should have to evaluate my options: Subtext, dasBlog and BlogEngine.Net.  I've installed them, skimmed the code, attempted to compile them from the trunk, broken them, failed to install them, tried out the skins, features, imported my blog posts, etc.  After all of it was said and done I came back to my first choice BlogEngine.Net.

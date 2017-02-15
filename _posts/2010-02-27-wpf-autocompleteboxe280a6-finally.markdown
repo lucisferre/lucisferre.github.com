@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-02-27 17:32:46'
-layout: post
-slug: wpf-autocompleteboxe280a6-finally
-status: publish
 title: WPF AutoCompleteBox. finally!
-comments: true
-wordpress_id: '67'
+date: 2010-02-27 17:32:46 Z
 categories:
-- .NET
+- ".NET"
 - MVVM
 - WPF
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '67'
 ---
 
 I was delighted to find out that the WPF Toolkit now includes an AutoCompleteBox, something that is a standard UI component and has been available in Silverlight for a while now.  Up until now I've had to make do with something I sort of hacked together out of a ComboBox and some creative ViewModel bindings.

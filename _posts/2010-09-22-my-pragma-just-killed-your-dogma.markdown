@@ -1,12 +1,6 @@
 ---
-author: Chris Nicola
-date: '2010-09-22 20:11:16'
-layout: post
-slug: my-pragma-just-killed-your-dogma
-status: publish
 title: My pragma just killed your dogma
-comments: true
-wordpress_id: '86'
+date: 2010-09-22 20:11:16 Z
 categories:
 - agile
 - ASP.NET
@@ -14,6 +8,11 @@ categories:
 - git
 - lean
 - MVC
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '86'
 ---
 
 ![beware-dogma][1]

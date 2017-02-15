@@ -1,18 +1,17 @@
 ---
-author: Chris Nicola
-date: '2011-09-05 23:12:45'
-layout: post
-slug: hacker-long-weekend-make-web-and-beer
-status: publish
 title: 'Hacker long weekend: Make web and beer'
-comments: true
-wordpress_id: '651'
+date: 2011-09-05 23:12:45 Z
 categories:
 - NOT.NET
 - beer
 - rails
 - ruby
 - web
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '651'
 ---
 
 ![include beer][1]

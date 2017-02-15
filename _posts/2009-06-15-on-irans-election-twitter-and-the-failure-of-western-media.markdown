@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-06-15 01:39:00'
-layout: post
-slug: on-irans-election-twitter-and-the-failure-of-western-media
-status: publish
 title: On Iran’s election, twitter, and the failure of western media
-comments: true
-wordpress_id: '15'
+date: 2009-06-15 01:39:00 Z
 categories:
 - politics
 - rant
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '15'
 ---
 
 Wow, have I been out of touch for the past few days. The Devteach and ALT.NET conferences kept so me busy,  I had no idea that for the past two days there have been protesting, riots and violence in Iran over the apparently fraudulent Iranian election.  Though I probably wasn't the only one, since apparently all of the major news networks had no idea either until recently.  The twitterverse/blagosphere however took notice.

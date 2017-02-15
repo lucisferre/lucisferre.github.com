@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-12-08 12:48:15'
-layout: post
-slug: linq-is-elegant-part-2
-status: publish
 title: LINQ is elegant part 2
-comments: true
-wordpress_id: '257'
+date: 2010-12-08 12:48:15 Z
 categories:
-- .NET
+- ".NET"
 - C#
 - linq
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '257'
 ---
 
 I still love using LINQ and lambda syntax in C#. It enables some really cool opportunities to write really concise and neat code really easily. Combining this with static extension methods allow you to extend LINQ for your own fun and profit. For some this is probably a bit of a simple example but if you are unfamiliar with any of these concepts I think it illustrates how they work in a nice elegant way. 

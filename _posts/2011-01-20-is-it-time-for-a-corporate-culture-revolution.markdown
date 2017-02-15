@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2011-01-20 08:00:00'
-layout: post
-slug: is-it-time-for-a-corporate-culture-revolution
-status: publish
 title: Is it time for a corporate culture revolution?
-comments: true
-wordpress_id: '279'
+date: 2011-01-20 08:00:00 Z
 categories:
 - lean
 - startup
 - TED
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '279'
 ---
 
 ![logo-nomeetings][1]

@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-03-04 18:01:00'
-layout: post
-slug: going-to-altnet-seattle
-status: publish
 title: Going to ALT.NET Seattle
-comments: true
-wordpress_id: '69'
+date: 2010-03-04 18:01:00 Z
 categories:
-- .NET
+- ".NET"
 - alt.net
 - unconference
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '69'
 ---
 
 I am excited about the [ALT.NET Seattle][1] conference coming up soon.  I really learned a lot at the last two ALT.NET Vancouver events after DevTeach and the Agile Vancouver conference.  I've been told the Seattle event is even better (hard to be better if it not in Vancouver imo, but we will see). 

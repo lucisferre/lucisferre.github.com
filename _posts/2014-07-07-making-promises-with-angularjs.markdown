@@ -1,8 +1,9 @@
 ---
+title: Making promises with AngularJS
+date: 2014-07-07 03:56:46 Z
+categories:
+- AngularJS
 layout: post
-title: "Making promises with AngularJS"
-date: "Sun Jul 06 20:56:46 -0700 2014"
-categories: AngularJS
 ---
 
 I recently had a need to wait on multiple resource queries in an AngularJS

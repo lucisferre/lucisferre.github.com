@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-06-16 21:54:00'
-layout: post
-slug: things-i-didnt-know-about-squid
-status: publish
 title: Things I didn't know about squid
-comments: true
-wordpress_id: '16'
+date: 2009-06-16 21:54:00 Z
 categories:
 - Food
 - Hobbies
 - funny
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '16'
 ---
 
 Apparently the fish monger knows some things about squid anatomy I don't...

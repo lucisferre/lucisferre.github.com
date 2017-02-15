@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2011-11-15 12:57:49'
-layout: post
-slug: my-one-day-at-the-top
-status: publish
 title: One day at the top
-comments: true
-wordpress_id: '767'
+date: 2011-11-15 12:57:49 Z
 categories:
 - blogging
 - hacker news
 - startups
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '767'
 ---
 
 Well almost one day, and almost the top. I submitted the [Startup Rush][1]

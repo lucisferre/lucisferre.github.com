@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-07-06 19:42:00'
-layout: post
-slug: dont-repeat-yourself
-status: publish
 title: Don't repeat yourself
-comments: true
-wordpress_id: '24'
+date: 2009-07-06 19:42:00 Z
 categories:
 - clean code
 - DRY
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '24'
 ---
 
 As one of the many things on my list of "stuff to read" from DevTeach is [Clean Code][1] by Robert C. Martin. It is an outstanding book that really nails the concept of writing clean, effective and efficient code.  While it is in Java the principles apply to just about any language, particularly C# because the syntax, like Java, is very C/C++-like.

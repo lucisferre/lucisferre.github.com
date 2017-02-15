@@ -1,11 +1,13 @@
 ---
+title: The only thing killing your corporate culture is your corporate culture
+date: 2012-08-06 10:30:00 Z
+categories:
+- business
+- startups
+- rant
 layout: post
-title: "The only thing killing your corporate culture is your corporate culture"
-date: 2012-08-06 10:30
 comments: true
-categories: [business, startups, rant]
 ---
-
 
 It's pretty clear people agree that corporate culture is a big problem. There
 is blog post after blog post talking about what to do, or not to do, to create

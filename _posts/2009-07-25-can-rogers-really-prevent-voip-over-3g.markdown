@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-07-25 20:16:00'
-layout: post
-slug: can-rogers-really-prevent-voip-over-3g
-status: publish
 title: Can Rogers really prevent VOIP over 3G?
-comments: true
-wordpress_id: '28'
+date: 2009-07-25 20:16:00 Z
 categories:
 - iPhone
 - Rogers
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '28'
 ---
 
 This was certainly news to me, though it isn't terribly surprising. It turns out Rogers is blocking apps like Skype from providing VOIP (voice over IP) services over their 3G network. 

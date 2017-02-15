@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-09-07 03:33:00'
-layout: post
-slug: sunday-dinner-pizza-rustica
-status: publish
 title: 'Sunday Dinner: Pizza Rustica'
-comments: true
-wordpress_id: '39'
+date: 2009-09-07 03:33:00 Z
 categories:
 - food
 - recipe
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '39'
 ---
 
 ![pizza rustica][1]

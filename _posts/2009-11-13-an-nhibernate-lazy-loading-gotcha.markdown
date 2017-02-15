@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-11-13 19:16:00'
-layout: post
-slug: an-nhibernate-lazy-loading-gotcha
-status: publish
 title: An nHibernate lazy loading gotcha
-comments: true
-wordpress_id: '47'
+date: 2009-11-13 19:16:00 Z
 categories:
-- .NET
+- ".NET"
 - nHibernate
 - ReSharper
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '47'
 ---
 
 I'm sure something about this has almost definitely been written about before, in fact I vaguely recall reading about it, but I feel the same way about blog posts as Homer Simpson does about car horns "When you're angry you can never find one," so I figure one more can't hurt.  Besides I haven't blogged about anything in weeks and I'm not prepared to write about anything more complicated than this at the moment.

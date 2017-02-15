@@ -1,22 +1,20 @@
 ---
-author: Chris Nicola
-date: '2009-12-23 12:55:00'
-layout: post
-slug: mocking-methods-with-lambda-predicates-parameters
-status: publish
 title: Mocking methods with lambda predicates parameters
-comments: true
-wordpress_id: '57'
+date: 2009-12-23 12:55:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - csharp
 - linq
 - mocking
 - TDD
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '57'
 ---
 
-  
 ![lambdareflection][1]
 
 I often work with lambda’s, as I’ve mentioned before I am a bit of a LINQ junkie.  As a result I have started creating methods that takes predicates as parameters, however I was finding methods like this difficult to mock.  It took a bit of doing but I finally managed to figure this out.

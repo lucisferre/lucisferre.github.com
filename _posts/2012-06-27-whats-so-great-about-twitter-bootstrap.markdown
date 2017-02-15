@@ -1,9 +1,14 @@
 ---
+title: What's so great about Twitter Bootstrap?
+date: 2012-06-27 08:32:00 Z
+categories:
+- css
+- html
+- javascript
+- coffeescript
+- design
 layout: post
-title: "What's so great about Twitter Bootstrap?"
-date: 2012-06-27 08:32
 comments: true
-categories: [css, html, javascript, coffeescript, design]
 ---
 
 I've been a pretty big fan of Twitter Bootstrap since it came out. I've used it

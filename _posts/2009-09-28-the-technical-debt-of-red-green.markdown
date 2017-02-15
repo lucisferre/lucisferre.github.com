@@ -1,17 +1,17 @@
 ---
-author: Chris Nicola
-date: '2009-09-28 09:15:00'
-layout: post
-slug: the-technical-debt-of-red-green
-status: publish
 title: The Technical Debt of Red Green
-comments: true
-wordpress_id: '42'
+date: 2009-09-28 09:15:00 Z
 categories:
 - agile
 - rant
 - technical debt
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '42'
 ---
+
 ![images_thumb][2]
 
 Recently, I have been seeing a lot of tweets and a couple of blog posts responding to [this post by Joel Spolsky][1] on “The Duct Tape Programmer”.  In it, Joel implies that agilists just don’t get the importance of having a “get ‘er done” attitude that the so-called “duct tape programmer” has.  Apparently, the “Red Green School of Software Development” has much to teach all these ivory tower agilists about how to wield "the handyman’s secret weapon."

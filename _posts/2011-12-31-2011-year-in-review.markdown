@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-12-31 11:32:37'
-layout: post
-slug: 2011-year-in-review
-status: publish
 title: 2011 year in review
-comments: true
-wordpress_id: '829'
+date: 2011-12-31 11:32:37 Z
 categories:
 - goals
 - retrospective
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '829'
 ---
 
 ![Calvin and Hobbes resolutions][1]

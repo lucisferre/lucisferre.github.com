@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-11-28 11:56:00'
-layout: post
-slug: tell-dont-ask
-status: publish
 title: Tell Don’t Ask
-comments: true
-wordpress_id: '247'
+date: 2010-11-28 11:56:00 Z
 categories:
 - Agile Vancouver
 - CQRS
 - DDD
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '247'
 ---
 
 During Michael Feathers talk on functional programming at Agile Vancouver 2010, he mentioned the OOP principle of “_tell don’t ask_”.  Since then, I’ve been thinking about it in the context of CQRS. [Tell don’t ask][1] is a principle of OOP proposed by Alec Sharp (someone correct me if my attribution is wrong here), who states:

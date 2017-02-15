@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2009-10-06 08:22:00'
-layout: post
-slug: the-7-habits-of-highly-effective-agile-teams
-status: publish
 title: The 7 habits of highly effective agile teams
-comments: true
-wordpress_id: '44'
+date: 2009-10-06 08:22:00 Z
 categories:
 - agile
 - kanban
 - lean
 - Redmine
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '44'
 ---
 
 In my [earlier post][1] about duct tape and technical debt I mentioned how managing technical debt affects the long term progress of software development.  I want to elaborate a bit more on that using something a presentation given by [Phillipe Kruchten][2] for the local Agile community group.  While I missed it,  Adam went and started to use these ideas for our own backlog.  I have found it a very useful way to think about the backlog and measuring productivity.

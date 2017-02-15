@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-05-30 04:18:00'
-layout: post
-slug: wpf-treeview-its-the-simple-things
-status: publish
 title: 'WPF TreeView: It’s The Simple Things'
+date: 2009-05-30 04:18:00 Z
+categories:
+- ".NET"
+- WPF
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '8'
-categories:
-- .NET
-- WPF
 ---
 
 I have generally found learning WPF very rewarding. It is a significant improvement to UI development over the old WinForms approach. That said you can tell it is new and it still needs a lot of work. I often say that WPF makes complex things simple (spend some time with the MVVM pattern and you will beging to understand this) but often makes simple things >:XX...

@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-03-26 15:46:00'
-layout: post
-slug: color-your-kanban
-status: publish
 title: Color your Kanban
-comments: true
-wordpress_id: '73'
+date: 2010-03-26 15:46:00 Z
 categories:
 - agile
 - kanban
 - lean
 - Redmine
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '73'
 ---
 
 ![2215433121_6573bcd8b1][1]

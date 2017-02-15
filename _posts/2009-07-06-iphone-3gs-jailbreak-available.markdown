@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-07-06 19:55:00'
-layout: post
-slug: iphone-3gs-jailbreak-available
-status: publish
 title: iPhone 3GS jailbreak available
-comments: true
-wordpress_id: '25'
+date: 2009-07-06 19:55:00 Z
 categories:
 - iPhone
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '25'
 ---
 
 [http://blog.iphone-dev.org/][1] I know I said I would post as soon as this was available, but I have a) been really busy and b) the jailbreak seems a bit involved and I wanted to try it before I blogged about it. 

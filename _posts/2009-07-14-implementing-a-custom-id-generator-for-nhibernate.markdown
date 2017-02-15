@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2009-07-14 02:58:00'
-layout: post
-slug: implementing-a-custom-id-generator-for-nhibernate
-status: publish
 title: Implementing a custom ID generator for nHibernate
-comments: true
-wordpress_id: '26'
+date: 2009-07-14 02:58:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - fluentnh
 - nHibernate
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '26'
 ---
 
 Currently I am doing some work developing a utility that imports securities data into a fairly old legacy database. It is still SQL but the database and software havn't been updated in about 15 years (maybe more) and never will be again.

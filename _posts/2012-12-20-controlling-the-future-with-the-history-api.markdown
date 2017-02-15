@@ -1,9 +1,11 @@
 ---
+title: Controlling the FUTURE with the History API
+date: 2012-12-20 09:00:00 Z
+categories:
+- HTML5
+- UX
 layout: post
-title: "Controlling the FUTURE with the History API"
-date: 2012-12-20 09:00
 comments: true
-categories: [HTML5, UX]
 ---
 
 Scott Barnes issued something of a challenge on Twitter yesterday

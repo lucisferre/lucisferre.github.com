@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2011-11-10 08:25:08'
-layout: post
-slug: the-startup-rush
-status: publish
 title: The startup rush
-comments: true
-wordpress_id: '737'
+date: 2011-11-10 08:25:08 Z
 categories:
 - startups
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '737'
 ---
 
 ![California Gold Rush][1]

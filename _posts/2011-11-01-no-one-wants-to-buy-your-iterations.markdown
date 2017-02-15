@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2011-11-01 20:10:45'
-layout: post
-slug: no-one-wants-to-buy-your-iterations
-status: publish
 title: No one wants to buy your iterations
-comments: true
-wordpress_id: '694'
+date: 2011-11-01 20:10:45 Z
 categories:
 - agile
 - kanban
 - lean
 - scrum
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '694'
 ---
 
 ![][1]

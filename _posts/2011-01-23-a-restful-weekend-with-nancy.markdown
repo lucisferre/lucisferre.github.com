@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2011-01-23 21:41:40'
-layout: post
-slug: a-restful-weekend-with-nancy
-status: publish
 title: A RESTful weekend with Nancy
-comments: true
-wordpress_id: '286'
+date: 2011-01-23 21:41:40 Z
 categories:
-- .NET
+- ".NET"
 - NancyFx
 - REST
 - Windsor
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '286'
 ---
 
 ![CropperCapture][1]

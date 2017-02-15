@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-12-31 18:00:18'
-layout: post
-slug: graphite-update-the-automapfilter-for-model-e280933e-viewmodel-mapping
-status: publish
 title: Using an AutoMapFilter for Model -> ViewModel mapping
-comments: true
-wordpress_id: '59'
+date: 2009-12-31 18:00:18 Z
 categories:
-- .NET
+- ".NET"
 - ASP.NET
 - MVC
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '59'
 ---
 
 This is my second post on the development of Graphite.  So far progress has been slow but good and I have learned a lot. 

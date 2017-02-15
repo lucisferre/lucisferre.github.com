@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2010-01-10 16:39:00'
-layout: post
-slug: a-tag-by-any-other-name
-status: publish
 title: A Tag by any other name.
-comments: true
-wordpress_id: '61'
+date: 2010-01-10 16:39:00 Z
 categories:
 - blogging
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '61'
 ---
 
 ![tagcloud][1]

@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-05-09 18:49:03'
-layout: post
-slug: bcs-single-transferrable-vote-stv
-status: publish
 title: B.C.’s Single Transferrable Vote (STV)
-comments: true
-wordpress_id: '3'
+date: 2009-05-09 18:49:03 Z
 categories:
 - B.C.
 - politics
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '3'
 ---
 
 [http://www.stv.ca/][1]

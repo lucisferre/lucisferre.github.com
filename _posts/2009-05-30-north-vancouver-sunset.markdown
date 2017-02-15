@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-05-30 21:27:11'
-layout: post
-slug: north-vancouver-sunset
-status: publish
 title: North Vancouver Sunset
-comments: true
-wordpress_id: '9'
+date: 2009-05-30 21:27:11 Z
 categories:
 - photography
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '9'
 ---
 
 ![][1]

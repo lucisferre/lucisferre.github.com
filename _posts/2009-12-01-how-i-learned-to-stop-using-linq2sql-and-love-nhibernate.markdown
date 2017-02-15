@@ -1,18 +1,17 @@
 ---
-author: Chris Nicola
-date: '2009-12-01 19:55:00'
-layout: post
-slug: how-i-learned-to-stop-using-linq2sql-and-love-nhibernate
-status: publish
 title: How I learned to stop using LINQ2SQL and love nHibernate
-comments: true
-wordpress_id: '53'
+date: 2009-12-01 19:55:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - linq
 - linq2sql
 - nHibernate
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '53'
 ---
 
 ![NHLogoSmall][1]

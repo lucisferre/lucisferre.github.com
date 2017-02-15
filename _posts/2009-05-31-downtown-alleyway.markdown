@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-05-31 01:21:00'
-layout: post
-slug: downtown-alleyway
-status: publish
 title: Downtown Alleyway
-comments: true
-wordpress_id: '10'
+date: 2009-05-31 01:21:00 Z
 categories:
 - photography
 - Vancouver
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '10'
 ---
 
 ![][1]

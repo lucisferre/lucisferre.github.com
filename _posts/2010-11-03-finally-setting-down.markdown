@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2010-11-03 00:16:15'
-layout: post
-slug: finally-setting-down
-status: publish
 title: Finally settling down?
-comments: true
-wordpress_id: '208'
+date: 2010-11-03 00:16:15 Z
 categories:
 - blogging
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '208'
 ---
 
 Well, I've moved my blog again and for what I hope will be the last time. 

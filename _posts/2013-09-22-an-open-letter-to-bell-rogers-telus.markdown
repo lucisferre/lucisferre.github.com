@@ -1,10 +1,13 @@
 ---
+title: This is why you suck
+date: 2013-09-22 09:27:00 Z
+categories:
+- Bell,
+- Rogers,
+- Telus
 layout: post
-title: "This is why you suck"
-date: 2013-09-22 09:27
 comments: true
 external-url: 
-categories: Bell, Rogers, Telus
 ---
 
 ## An open letter to "The Big 3"

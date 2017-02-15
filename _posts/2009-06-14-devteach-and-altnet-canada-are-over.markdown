@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2009-06-14 17:46:00'
-layout: post
-slug: devteach-and-altnet-canada-are-over
-status: publish
 title: Devteach and ALT.NET Canada are over
-comments: true
-wordpress_id: '14'
+date: 2009-06-14 17:46:00 Z
 categories:
-- .NET
+- ".NET"
 - agile
 - alt.net
 - twitter
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '14'
 ---
 
 If I have been quiet lately it is because I have been in back-to-back conferences of Devteach and ALT.NET Canada since last Monday. What spare time I had I used for sleeping, eating and trying to keep up on work. 

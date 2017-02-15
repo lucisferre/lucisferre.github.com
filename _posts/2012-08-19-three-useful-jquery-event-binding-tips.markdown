@@ -1,9 +1,12 @@
 ---
+title: Three useful jQuery event binding tips
+date: 2012-08-19 12:36:00 Z
+categories:
+- jQuery
+- javascript
+- HTML
 layout: post
-title: "Three useful jQuery event binding tips"
-date: 2012-08-19 12:36
 comments: true
-categories: [jQuery, javascript, HTML]
 ---
 
 I want to share a few tips based on the way I've been writing Javascript (well

@@ -1,18 +1,17 @@
 ---
-author: Chris Nicola
-date: '2011-11-07 09:00:23'
-layout: post
-slug: youre-having-nosql-problems-i-feel-bad-for-you-son
-status: publish
 title: You're having noSQL problems, I feel bad for you son
-comments: true
-wordpress_id: '729'
+date: 2011-11-07 09:00:23 Z
 categories:
 - CQRS
 - rant
 - MongoDB
 - NOSQL
 - SQL
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '729'
 ---
 
 Just recently on [Hacker News][1] a whole bunch of posts either deriding or

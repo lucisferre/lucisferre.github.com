@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-08-15 21:49:00'
-layout: post
-slug: generate-custom-ddl-for-your-custom-id-generator-with-nhibernate
-status: publish
 title: Generate Custom DDL for your Custom Id Generator with nHibernate
-comments: true
-wordpress_id: '34'
+date: 2009-08-15 21:49:00 Z
 categories:
-- .NET
+- ".NET"
 - fluentnh
 - nHibernate
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '34'
 ---
 
 A while ago I [posted][1] about writing a custom id generator using nHibernate and extending one of the existing Generator classes nHibernate provides.  This was done to support working with a legacy database which uses a custom id generation strategy.  One thing I like to do with all my apps is write some basic CRUD tests to make sure my mappings and queries are all working properly.

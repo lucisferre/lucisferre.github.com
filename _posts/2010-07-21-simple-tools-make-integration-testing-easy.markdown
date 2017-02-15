@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-07-21 19:47:00'
-layout: post
-slug: simple-tools-make-integration-testing-easy
-status: publish
 title: Simple tools make integration testing easy
-comments: true
-wordpress_id: '82'
+date: 2010-07-21 19:47:00 Z
 categories:
-- .NET
+- ".NET"
 - agile
 - csharp
 - TDD
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '82'
 ---
 
 I've been working on a small library that requires using an FTP client to upload and access files stored on a remote FTP.  Now I want to do TDD, but the .NET FTP libraries (FtpWebRequest/FtpWebResponse) are absolutely untestable.  They have no interfaces, you can't mock them at all (though I've heard TypeMock may be capable of doing this) to TDD they are an immovable object.  I should point out my team has also committed to maintaining over 80% code coverage on things like libraries, APIs and services and for this library the FTP related code is currently about 50% of the code.

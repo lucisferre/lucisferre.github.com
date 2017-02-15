@@ -1,14 +1,8 @@
 ---
-author: Chris Nicola
-date: '2011-03-18 12:22:08'
-layout: post
-slug: were-all-out-of-duct-tape-try-putting-some-cheap-code-on-it
-status: publish
 title: We're all out of duct tape, try putting some cheap code on it
-comments: true
-wordpress_id: '559'
+date: 2011-03-18 12:22:08 Z
 categories:
-- .NET
+- ".NET"
 - Agile
 - Software Development
 - agile
@@ -17,6 +11,11 @@ categories:
 - rant
 - SOLID
 - TDD
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '559'
 ---
 
 Before I get this little rant started I just want to make a quick apology.  I

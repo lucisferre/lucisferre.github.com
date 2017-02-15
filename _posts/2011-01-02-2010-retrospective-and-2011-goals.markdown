@@ -1,12 +1,6 @@
 ---
-author: Chris Nicola
-date: '2011-01-02 12:37:12'
-layout: post
-slug: 2010-retrospective-and-2011-goals
-status: publish
 title: 2010 Retrospective and 2011 Goals
-comments: true
-wordpress_id: '267'
+date: 2011-01-02 12:37:12 Z
 categories:
 - agile
 - alt.net
@@ -16,6 +10,11 @@ categories:
 - rails
 - TDD
 - VIm
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '267'
 ---
 
 Last year, following the lead of other blogging developers I posted a

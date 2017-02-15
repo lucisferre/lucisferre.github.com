@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-05-08 22:15:51'
-layout: post
-slug: first-post
-status: publish
 title: First Post!
-comments: true
-wordpress_id: '1'
+date: 2009-05-08 22:15:51 Z
 categories:
 - blogging
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '1'
 ---
 
 Ok this is getting kind of cliché. Every time I create a new blog (rarely) I do one of these posts and call it "first post".  I am hoping this blog is finally a bit more permanent. I went and got some hosting space months ago and just didn't get around to using it till now.

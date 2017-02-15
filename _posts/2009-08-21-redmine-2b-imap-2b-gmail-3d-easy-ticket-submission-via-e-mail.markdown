@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-08-21 02:15:00'
-layout: post
-slug: redmine-2b-imap-2b-gmail-3d-easy-ticket-submission-via-e-mail
-status: publish
 title: Redmine + IMAP + Gmail = Easy ticket submission via e-mail
-comments: true
-wordpress_id: '38'
+date: 2009-08-21 02:15:00 Z
 categories:
 - Software Development
 - Redmine
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '38'
 ---
 
 ![ticket][1] 

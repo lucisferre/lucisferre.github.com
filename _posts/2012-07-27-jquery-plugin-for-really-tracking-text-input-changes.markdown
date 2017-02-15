@@ -1,9 +1,12 @@
 ---
+title: jQuery plugin for really tracking text input changes
+date: 2012-07-27 17:49:00 Z
+categories:
+- jQuery
+- javascript
+- coffeescript
 layout: post
-title: "jQuery plugin for really tracking text input changes"
-date: 2012-07-27 17:49
 comments: true
-categories: [jQuery, javascript, coffeescript]
 ---
 
 It may come as a bit of surprise to some, but the `change` event on HTML text

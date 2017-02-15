@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2011-02-12 18:09:00'
-layout: post
-slug: is-groupon-is-killing-their-golden-goose
-status: publish
 title: Is Groupon is killing their golden goose?
-comments: true
-wordpress_id: '315'
+date: 2011-02-12 18:09:00 Z
 categories:
 - groupon
 - livingsocial
 - social media
 - startups
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '315'
 ---
 
 Everyone knows the fable of the golden goose, it’s a common metaphor in

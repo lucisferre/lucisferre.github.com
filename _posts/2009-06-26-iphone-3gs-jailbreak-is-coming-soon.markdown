@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-06-26 16:18:00'
-layout: post
-slug: iphone-3gs-jailbreak-is-coming-soon
-status: publish
 title: iPhone 3GS jailbreak is coming soon
-comments: true
-wordpress_id: '22'
+date: 2009-06-26 16:18:00 Z
 categories:
 - iPhone
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '22'
 ---
 
 [http://blog.iphone-dev.org/][1] The "[Dev Team][1]", the _shady group of techies_ who have made a hobby out of cracking whatever Apple comes out with to protect the iPhone, have announced they have discovered the hardware exploit needed to create a working jailbreak app for the 3GS phones.  

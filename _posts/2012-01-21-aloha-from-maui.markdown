@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Aloha from Maui"
-date: 2012-01-21 16:33
-comments: true
-categories: 
+title: Aloha from Maui
+date: 2012-01-21 16:33:00 Z
+categories:
 - blogging
 - octopress
 - travel
+layout: post
+comments: true
 ---
 
 ![maui sunset][sunsetthumb]

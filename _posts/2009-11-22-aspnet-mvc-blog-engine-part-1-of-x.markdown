@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2009-11-22 13:55:00'
-layout: post
-slug: aspnet-mvc-blog-engine-part-1-of-x
-status: publish
 title: 'ASP.NET MVC Blog Engine: Part 1 of X'
-comments: true
-wordpress_id: '50'
+date: 2009-11-22 13:55:00 Z
 categories:
-- .NET
+- ".NET"
 - ASP.NET
 - MVC
 - nHibernate
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '50'
 ---
 
 ![MVC8x6_209DEC49][1]

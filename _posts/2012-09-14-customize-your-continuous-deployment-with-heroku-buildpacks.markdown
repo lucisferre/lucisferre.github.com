@@ -1,9 +1,12 @@
 ---
+title: Customize your continuous deployment with Heroku buildpacks
+date: 2012-09-14 12:14:00 Z
+categories:
+- heroku,
+- ruby,
+- rails
 layout: post
-title: "Customize your continuous deployment with Heroku buildpacks"
-date: 2012-09-14 12:14
 comments: true
-categories: heroku, ruby, rails
 ---
 
 One of the great things about building on PaaS/IaaS is all the devops work you

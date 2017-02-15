@@ -1,15 +1,15 @@
 ---
-layout: post
-title: "Bootstrap 3, Foundation 4 and Bourbon Neat - Part 2"
-date: 2013-08-05 09:40
-comments: true
-external-url: 
-categories: 
+title: Bootstrap 3, Foundation 4 and Bourbon Neat - Part 2
+date: 2013-08-05 09:40:00 Z
+categories:
 - twitter-bootstrap
 - foundaton
 - bourbon
 - bourbon-neat
 - css
+layout: post
+comments: true
+external-url: 
 ---
 
 For those who have not already read about [my dilemma][1] previously I've been

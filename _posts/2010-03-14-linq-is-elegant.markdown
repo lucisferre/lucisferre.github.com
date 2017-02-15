@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-03-14 10:35:00'
-layout: post
-slug: linq-is-elegant
-status: publish
 title: LINQ is elegant
-comments: true
-wordpress_id: '70'
+date: 2010-03-14 10:35:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - csharp
 - linq
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '70'
 ---
 
 Sometimes I just love LINQ.  I had to traverse an object tree today and I wanted something simple to enumerate every object in the tree into a dictionary.  Here is the recursive function I wrote:

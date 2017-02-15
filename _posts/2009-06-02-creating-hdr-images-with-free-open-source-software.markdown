@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-06-02 15:46:00'
-layout: post
-slug: creating-hdr-images-with-free-open-source-software
-status: publish
 title: Creating HDR images with free open-source software
-comments: true
-wordpress_id: '11'
+date: 2009-06-02 15:46:00 Z
 categories:
 - photography
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '11'
 ---
 
 [http://garmahis.com/tutorials/hdr-tutorial-free-software/][1]

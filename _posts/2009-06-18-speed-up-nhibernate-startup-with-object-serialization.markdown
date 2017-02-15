@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-06-18 15:48:00'
-layout: post
-slug: speed-up-nhibernate-startup-with-object-serialization
-status: publish
 title: Speed up nHibernate startup with object serialization
+date: 2009-06-18 15:48:00 Z
+categories:
+- ".NET"
+- nHibernate
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '18'
-categories:
-- .NET
-- nHibernate
 ---
 
 **Edit:** [Tuna][1] pointed out to me that [his solution][2] is not, in fact, Castle specific and it clearly isn't I really don't know what I was smoking back then.  Also I noticed that somewhere in my code I am getting the assInfo from ass.Location so my code is also not age appropriate.  So for the sake of the children, definitely feel free to [check out Tuna's post][2] on nhForge.

@@ -1,9 +1,12 @@
 ---
+title: Erlang Factory Lite Vancouver
+date: 2012-07-30 09:30:00 Z
+categories:
+- Erlang
+- conference
+- Vancouver
 layout: post
-title: "Erlang Factory Lite Vancouver"
-date: 2012-07-30 09:30
 comments: true
-categories: [Erlang, conference, Vancouver]
 ---
 
 Last Saturday I spent my precious weekend enjoying the Erlang Factory Lite

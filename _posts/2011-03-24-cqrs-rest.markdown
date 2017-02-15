@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2011-03-24 07:57:40'
-layout: post
-slug: cqrs-rest
-status: publish
 title: CQRS-REST
-comments: true
-wordpress_id: '571'
+date: 2011-03-24 07:57:40 Z
 categories:
 - CQRS
 - DDD
 - REST
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '571'
 ---
 
 Updated: 11:07 PST (edited it a bit and expanded on a couple things, like I

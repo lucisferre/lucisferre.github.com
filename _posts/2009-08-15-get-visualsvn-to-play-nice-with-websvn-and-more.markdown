@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-08-15 22:43:00'
-layout: post
-slug: get-visualsvn-to-play-nice-with-websvn-and-more
-status: publish
 title: Get VisualSVN to play nice with WebSVN and more
-comments: true
-wordpress_id: '35'
+date: 2009-08-15 22:43:00 Z
 categories:
 - svn
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '35'
 ---
 
 VisualSVN is a easy and free way to have a Subversion repository running under Windows in no time flat.  That said it still leaves a lot to be desired.  It has no built in bug/feature tracking, as I [posted ][1]about before even getting Trac setup with it can be a pain (though if you read the comments you will see that they have remedied that with an update).  Here I am going to talk about adding WebSVN and even svn:// protocol support to your VisualSVN with relative ease.

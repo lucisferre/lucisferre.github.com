@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2011-02-20 16:33:17'
-layout: post
-slug: local-conferences-worth-checking-out
-status: publish
 title: Local conferences worth checking out
-comments: true
-wordpress_id: '546'
+date: 2011-02-20 16:33:17 Z
 categories:
 - Agile Vancouver
 - alt.net
 - conference
 - makewebnotwar
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '546'
 ---
 
 As spring approaches so too, it seems, do the conferences.  There are a few of them taking place nearby that I think are worth going to, unfortunately nearly all of them will take place at almost exactly the same time.  Decisions... decisions... decisions.

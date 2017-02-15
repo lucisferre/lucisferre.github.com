@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-10-02 10:49:05'
-layout: post
-slug: javascript-mvc-the-paradox-of-choice
-status: publish
 title: Javascript MVC - The paradox of choice
-comments: true
-wordpress_id: '675'
+date: 2011-10-02 10:49:05 Z
 categories:
 - javascript
 - MVC
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '675'
 ---
 
 As I continue to chug along on my Rails project I'm faced with a dilemma that every web developer must face at one point or another. Which javascript "rich-client" framework am I going to use? At work we have been using [backbone.js][1] and while I like it, I have a few, small issues with it.

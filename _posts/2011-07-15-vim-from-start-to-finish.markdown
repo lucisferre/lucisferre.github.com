@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-07-15 23:04:53'
-layout: post
-slug: vim-from-start-to-finish
-status: publish
 title: Vim from start to finish
-comments: true
-wordpress_id: '593'
+date: 2011-07-15 23:04:53 Z
 categories:
 - blogging
 - VIm
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '593'
 ---
 
 I think I've finally hit a bit of a sweet spot with VIm, it's grown from

@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-07-01 00:50:00'
-layout: post
-slug: add-an-index-to-many-to-one-relationships-in-nhibernate
-status: publish
 title: Add an index to many-to-one relationships in nHibernate
+date: 2009-07-01 00:50:00 Z
+categories:
+- ".NET"
+- nHibernate
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '23'
-categories:
-- .NET
-- nHibernate
 ---
 
 I spent some time today creating some de-normalized views of my database for reporting. It isn't a big project so I've chosen to use SQL Views and SSRS reports for some of the reporting that is required. The main entities I am querying form a three level hierarchy and when I query the leaf nodes I often want to filter on data at the root node.

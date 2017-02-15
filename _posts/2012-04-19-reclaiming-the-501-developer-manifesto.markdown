@@ -1,9 +1,12 @@
 ---
+title: Reclaiming the '501 developer'
+date: 2012-04-19 09:00:00 Z
+categories:
+- agile,
+- '501'
+- manifesto
 layout: post
-title: "Reclaiming the '501 developer'"
-date: 2012-04-19 09:00
 comments: true
-categories: agile, 501 manifesto
 ---
 
 I've recently found myself in a bit of conflict over how I feel about

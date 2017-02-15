@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-11-24 08:37:00'
-layout: post
-slug: fluent-nhibernate-cane28099t-quite-see-the-forest-for-the-trees
-status: publish
 title: Fluent nHibernate can't quite see the forest for the trees
+date: 2009-11-24 08:37:00 Z
+categories:
+- ".NET"
+- nHibernate
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '51'
-categories:
-- .NET
-- nHibernate
 ---
 
 ![forestandtree][1]

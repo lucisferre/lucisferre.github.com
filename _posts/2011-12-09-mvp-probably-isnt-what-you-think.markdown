@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-12-09 07:59:05'
-layout: post
-slug: mvp-probably-isnt-what-you-think
-status: publish
 title: MVP probably isn't what you think
-comments: true
-wordpress_id: '813'
+date: 2011-12-09 07:59:05 Z
 categories:
 - lean startup
 - mvp
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '813'
 ---
 
 Just over a year ago I had first heard of lean startup and about the idea of

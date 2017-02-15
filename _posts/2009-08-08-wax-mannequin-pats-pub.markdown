@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-08-08 19:47:00'
-layout: post
-slug: wax-mannequin-pats-pub
-status: publish
 title: Wax Mannequin @ Pat’s Pub
-comments: true
-wordpress_id: '33'
+date: 2009-08-08 19:47:00 Z
 categories:
 - General/News
 - music
 - Vancouver
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '33'
 ---
 
 It was years ago during my undergrad days in Kingston that a good friend of ours asked us to come watch her sister play at the Scherzo pub. Her sister, Krista Muir, plays her own style of synth-pop music while also playing in character as [Lederhosen Lucil][1]. Armed only with an impressive command of every key on her mighty Yamaha synthesiser and a pair of homemade Lederhosen (I've heard she has quite a collection), she comes prepared to rock you! If you've never heard of her, which is probably a good bet if your not from Ontario or Quebec, you should do yourself a favour and click that link right now.  Unfortunately for you LL is no more but I believe she still plays under her real name now. 

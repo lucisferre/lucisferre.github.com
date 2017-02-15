@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2009-12-05 19:13:00'
-layout: post
-slug: spam-the-battle-is-won-but-the-war-is-never-over
-status: publish
 title: 'Spam: The battle is won, but the war is never over'
-comments: true
-wordpress_id: '54'
+date: 2009-12-05 19:13:00 Z
 categories:
-- .NET
+- ".NET"
 - blogengine
 - blogging
 - spam
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '54'
 ---
 
 ![wallofspam][1]

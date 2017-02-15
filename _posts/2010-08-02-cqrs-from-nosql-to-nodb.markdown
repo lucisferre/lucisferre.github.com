@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-08-02 10:41:42'
-layout: post
-slug: cqrs-from-nosql-to-nodb
-status: publish
 title: 'CQRS: From NoSQL to NoDB'
-comments: true
-wordpress_id: '83'
+date: 2010-08-02 10:41:42 Z
 categories:
-- .NET
+- ".NET"
 - CQRS
 - nCQRS
 - NOSQL
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '83'
 ---
 
 ![ncqrs-logo][1] 

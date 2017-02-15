@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-03-21 07:43:18'
-layout: post
-slug: alt-net-vancouver-meetup-group
-status: publish
 title: ALT.NET Vancouver Meetup Group
-comments: true
-wordpress_id: '568'
+date: 2011-03-21 07:43:18 Z
 categories:
 - alt.net
 - VanDev
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '568'
 ---
 
 [Cliff Hammerschmidt][1] who runs the VanDev meetup group let me know that he

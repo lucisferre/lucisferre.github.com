@@ -1,9 +1,11 @@
 ---
+title: Modular CSS for a Twitter style toggle button
+date: 2012-07-06 08:46:00 Z
+categories:
+- css
+- smacss
 layout: post
-title: "Modular CSS for a Twitter style toggle button"
-date: 2012-07-06 08:46
 comments: true
-categories: [css, smacss]
 ---
 
 In the [last post][last] I did on Twitter Bootstrap I mentioned the

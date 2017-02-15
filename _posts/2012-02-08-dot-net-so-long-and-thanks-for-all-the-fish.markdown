@@ -1,12 +1,11 @@
 ---
-layout: post
 title: ".NET: So long and thanks for all the fish"
-date: 2012-02-08 10:11
-comments: true
-published: true
-categories: 
-- .NET 
+date: 2012-02-08 10:11:00 Z
+categories:
+- ".NET"
 - rant
+layout: post
+comments: true
 ---
 
 <img src="/images/dolphin.jpg" class="center" title="Dolphins are smart animals, they've left .NET, shouldn't you?">

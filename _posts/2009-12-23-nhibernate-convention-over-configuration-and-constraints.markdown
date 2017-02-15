@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-12-23 13:29:00'
-layout: post
-slug: nhibernate-convention-over-configuration-and-constraints
-status: publish
 title: Convention over configuration with fluent nHibernate and AutoPersistenceModel
-comments: true
-wordpress_id: '58'
+date: 2009-12-23 13:29:00 Z
 categories:
-- .NET
+- ".NET"
 - fluentnh
 - nHibernate
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '58'
 ---
 
 ![xmlschool_1][1]

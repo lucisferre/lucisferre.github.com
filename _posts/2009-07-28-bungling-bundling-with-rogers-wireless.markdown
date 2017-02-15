@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-07-28 16:59:00'
-layout: post
-slug: bungling-bundling-with-rogers-wireless
-status: publish
 title: Bungling bundling with Rogers Wireless
-comments: true
-wordpress_id: '29'
+date: 2009-07-28 16:59:00 Z
 categories:
 - fail
 - rant
 - Rogers
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '29'
 ---
 
 ![butt-phone][1]

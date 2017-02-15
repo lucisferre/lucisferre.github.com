@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2010-04-17 13:09:00'
-layout: post
-slug: git-user-need-to-work-with-svn-dont-panic
-status: publish
 title: So you have to use Subversion? DONT PANIC
-comments: true
-wordpress_id: '76'
+date: 2010-04-17 13:09:00 Z
 categories:
 - git
 - svn
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '76'
 ---
 
 ![dontpanic_1][1]

@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2010-11-06 11:07:49'
-layout: post
-slug: sigh
-status: publish
 title: Sigh…
-comments: true
-wordpress_id: '230'
+date: 2010-11-06 11:07:49 Z
 categories:
 - rant
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '230'
 ---
 
 ![facepalm][1]

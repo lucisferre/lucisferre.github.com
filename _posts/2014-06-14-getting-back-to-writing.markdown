@@ -1,7 +1,7 @@
 ---
+title: Getting back to writing again
+date: 2014-06-14 23:15:11 Z
 layout: post
-title: "Getting back to writing again"
-date: "Sat Jun 14 16:15:11 -0700 2014"
 ---
 
 I'm back! Well I'm trying to get back I should probably say. I haven't been

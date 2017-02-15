@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-12-15 15:39:00'
-layout: post
-slug: hola-mi-amigos
-status: publish
 title: Hola mi amigos!
-comments: true
-wordpress_id: '55'
+date: 2009-12-15 15:39:00 Z
 categories:
 - travel
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '55'
 ---
 
 ![AzucarNegra2][1]

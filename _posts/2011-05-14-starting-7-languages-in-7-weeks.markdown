@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-05-14 09:43:52'
-layout: post
-slug: starting-7-languages-in-7-weeks
-status: publish
 title: Starting 7 languages in 7 weeks
-comments: true
-wordpress_id: '582'
+date: 2011-05-14 09:43:52 Z
 categories:
 - NOT.NET
 - books
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '582'
 ---
 
 ![btlang_xlargecover][1]

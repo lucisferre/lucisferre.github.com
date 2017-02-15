@@ -1,19 +1,18 @@
 ---
-author: Chris Nicola
-date: '2010-01-27 18:01:00'
-layout: post
-slug: graphite-its-alive
-status: publish
 title: 'Graphite: It''s Alive!'
-comments: true
-wordpress_id: '64'
+date: 2010-01-27 18:01:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - ASP.NET
 - blogging
 - graphite
 - MVC
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '64'
 ---
 
 Today I managed to put about 5 hours in on Graphite and managed to finish off the BlogML importer.  While there are still a number of bugs the whole thing is pretty much working so I decided to deploy it for the first time.  I had yet to deploy it into a shared hosting environment so I wanted to make sure there wouldn't be any problems.

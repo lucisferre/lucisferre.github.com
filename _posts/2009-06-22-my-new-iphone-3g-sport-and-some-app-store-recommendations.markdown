@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-06-22 21:07:00'
-layout: post
-slug: my-new-iphone-3g-sport-and-some-app-store-recommendations
-status: publish
 title: My new iPhone 3G “sport” and some app store recommendations
-comments: true
-wordpress_id: '20'
+date: 2009-06-22 21:07:00 Z
 categories:
 - iPhone
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '20'
 ---
 
 So i finally got an iPhone.  Look it was a long drawn out decision and I still debate whether a Blackberry would have been better.  What I'd actually like is probably an Android but it seems like it could be a while before a decent Android handset comes to market let alone is available in Canada and the iPhone still probably has the larger selection of applications (lets face facts market share rules).

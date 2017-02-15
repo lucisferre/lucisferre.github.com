@@ -1,9 +1,13 @@
 ---
+title: Let's Disqus Branch
+date: 2012-08-26 10:20:00 Z
+categories:
+- social media
+- branch
+- twitter
+- disqus
 layout: post
-title: "Let's Disqus Branch"
-date: 2012-08-26 10:20
 comments: false
-categories: [social media, branch, twitter, disqus]
 ---
 
 So I've been watching Branch with a fair bit of interest as of late (and not just

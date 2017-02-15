@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-06-07 20:16:00'
-layout: post
-slug: loading-raw-files-in-qtpfsgui-on-64-bit-windows
-status: publish
 title: Loading RAW files in Qtpfsgui on 64-bit windows
-comments: true
-wordpress_id: '13'
+date: 2009-06-07 20:16:00 Z
 categories:
 - photography
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '13'
 ---
 
 When I first downloaded Qtpfsgui for creating HDR images I had a problem where I could not load my camera's raw format images (Pentax PEF). Qtpfsgui uses dcraw for loading RAW images and whenever it tried to load the PEF files Qtpfsgui spit out a misleading error that led me to believe that perhaps dcraw didn't support PEF files. This was not the case, running dcraw directly from the command line gave me the answer I needed: 

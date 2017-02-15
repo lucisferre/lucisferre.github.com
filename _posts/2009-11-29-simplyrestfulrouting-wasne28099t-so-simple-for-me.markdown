@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2009-11-29 23:28:00'
-layout: post
-slug: simplyrestfulrouting-wasne28099t-so-simple-for-me
-status: publish
 title: SimplyRestfulRouting wasn’t so simple for me
-comments: true
-wordpress_id: '52'
+date: 2009-11-29 23:28:00 Z
 categories:
-- .NET
+- ".NET"
 - ASP.NET
 - MVC
 - REST
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '52'
 ---
 
 ![complicated2][1]

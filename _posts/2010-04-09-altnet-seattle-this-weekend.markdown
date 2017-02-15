@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2010-04-09 07:55:50'
-layout: post
-slug: altnet-seattle-this-weekend
-status: publish
 title: ALT.NET Seattle this weekend
+date: 2010-04-09 07:55:50 Z
+categories:
+- ".NET"
+- alt.net
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '75'
-categories:
-- .NET
-- alt.net
 ---
 
 Just getting ready to head off to ALT.NET Seattle after work today.  Looking forward to the open-spaces events (and the bar-related events as well).  I am hoping that during some of the downtime I will have time to finish some of the blogs entries I've been planning including:

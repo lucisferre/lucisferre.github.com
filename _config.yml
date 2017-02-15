@@ -1,17 +1,23 @@
-# Site settings
+---
 title: lucisferre
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: chnicola@gmail.com
-description: "Thoughts on software, startups and relentless improvement."
-baseurl: ""
-
-# Build settings
+description: Thoughts on software, startups and relentless improvement.
+baseurl: ''
 markdown: redcarpet
-permalink: /:year/:month/:day/:title/
+permalink: "/:year/:month/:day/:title/"
 highlighter: pygments
-
 redcarpet:
-  extensions: [strikethrough, tables]
-
+  extensions:
+  - strikethrough
+  - tables
 sass:
   sass_dir: css
   style: :compressed

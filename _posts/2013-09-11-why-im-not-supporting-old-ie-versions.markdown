@@ -1,10 +1,11 @@
 ---
+title: Why I'm not supporting old IE versions
+date: 2013-09-11 09:03:00 Z
+categories:
+- HTML5
 layout: post
-title: "Why I'm not supporting old IE versions"
-date: 2013-09-11 09:03
 comments: true
 external-url: 
-categories: HTML5
 ---
 
 I'm serious, not even IE9.

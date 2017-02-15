@@ -1,19 +1,18 @@
 ---
-author: Chris Nicola
-date: '2010-06-25 00:54:00'
-layout: post
-slug: back-to-our-regular-scheduled-programe280a6
-status: publish
 title: Back to our regular scheduled program…
-comments: true
-wordpress_id: '80'
+date: 2010-06-25 00:54:00 Z
 categories:
-- .NET
+- ".NET"
 - photography
 - travel
 - blogging
 - MEF
 - nCQRS
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '80'
 ---
 
 ![tv static][1]

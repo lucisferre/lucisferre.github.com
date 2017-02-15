@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-06-04 22:45:00'
-layout: post
-slug: persistence-laws-use-surrogate-keys
-status: publish
 title: 'Persistence Laws: Use Surrogate Keys'
-comments: true
-wordpress_id: '12'
+date: 2009-06-04 22:45:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - nHibernate
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '12'
 ---
 
 As I learned nHibernate, several sources recommended that one _always_ use a surrogate primary key for all entities.  I follow this rule strictly. My personal preference now is to use the hilo identity generator nHibernate provides.

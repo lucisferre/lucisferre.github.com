@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-05-21 00:14:00'
-layout: post
-slug: can-datetime-spare-a-quarter
-status: publish
 title: Can DateTime spare a quarter?
+date: 2009-05-21 00:14:00 Z
+categories:
+- ".NET"
+- C#
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '87'
-categories:
-- .NET
-- C#
 ---
 
 Ok so this isn't really very impressive for a blog post, but I am curious if anyone has a more sensible way to do this.

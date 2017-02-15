@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-03-16 19:20:00'
-layout: post
-slug: improving-blogenginenet-spam-filtering
-status: publish
 title: Improving BlogEngine.NET spam filtering
-comments: true
-wordpress_id: '71'
+date: 2010-03-16 19:20:00 Z
 categories:
-- .NET
+- ".NET"
 - blogengine
 - blogging
 - spam
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '71'
 ---
 
 BlogEngine.NET isn't a bad little blog engine, I mean I still intend to finish Graphite and move over too that, but in the meantime BE is doing it's thing for me.  I do have a few pet peeves though and a big one is spam.  BE attracts a ton of spam.  I think part of the problem is that it is popular enough to be a target and doesn't make it very hard for spammers to find the comment submit form (I see search keywords on my analytics page like "<removed search phrase for obvious reasons>").

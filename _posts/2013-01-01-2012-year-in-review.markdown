@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "2012 year in review"
-date: 2013-01-01 13:23
-comments: true
-external-url:
+title: 2012 year in review
+date: 2013-01-01 13:23:00 Z
 categories:
 - goals
 - retrospective
+layout: post
+comments: true
+external-url: 
 ---
 
 ![Cat](/images/resolution-cat.jpg)

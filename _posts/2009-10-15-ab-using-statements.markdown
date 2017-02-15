@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-10-15 09:55:36'
-layout: post
-slug: ab-using-statements
-status: publish
 title: ab-’using’ statements
-comments: true
-wordpress_id: '45'
+date: 2009-10-15 09:55:36 Z
 categories:
-- .NET
+- ".NET"
 - C#
 - fail
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '45'
 ---
 
 I was trying to squash a frustrating bug the other day that I just couldn't pin down despite the fact that it was right in front of my face the whole time.

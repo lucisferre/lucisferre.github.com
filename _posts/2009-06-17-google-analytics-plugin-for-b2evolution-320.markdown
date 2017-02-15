@@ -1,18 +1,17 @@
 ---
-author: Chris Nicola
-date: '2009-06-17 15:56:00'
-layout: post
-slug: google-analytics-plugin-for-b2evolution-320
-status: publish
 title: Google Analytics Plugin for b2evolution 3.2.0
-comments: true
-wordpress_id: '17'
+date: 2009-06-17 15:56:00 Z
 categories:
 - NOT.NET
 - Software Development
 - analytics
 - blogging
 - PHP
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '17'
 ---
 
 When I upgraded my blog software recently it broke the GA plugin I was using. Which is sad cause I like to see all the pretty visitors. I found a [new plugin][1] that appeared to work shortly after, but for the past two weeks I have had no visitors (I know, sad panda).

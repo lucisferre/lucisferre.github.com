@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-09-08 20:43:00'
-layout: post
-slug: changing-over-to-blogenginenet-for-now
-status: publish
 title: Changing over to Blogengine.NET… for now
-comments: true
-wordpress_id: '40'
+date: 2009-09-08 20:43:00 Z
 categories:
 - blogging
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '40'
 ---
 
 Well I finally got fed up with a few things in b2evolution, specifically the following:

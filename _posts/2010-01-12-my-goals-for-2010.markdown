@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-01-12 09:17:00'
-layout: post
-slug: my-goals-for-2010
-status: publish
 title: A brief retrospective of 2009 and my goals for 2010
-comments: true
-wordpress_id: '62'
+date: 2010-01-12 09:17:00 Z
 categories:
 - agile
 - blogging
 - goals
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '62'
 ---
 
 Seems lots of people are doing this these days.  Both [Scott Muc][1] and [Justice Gray][2] have posted theirs, well... Justice actually posted _yours_. Usually, I just keep an general idea of my goals in mind. This keeps my goal setting flexible, but it makes it really hard to measure my progress relative to goals and doesn't make me very accountable to them.  This year I remedying that by posting them here on my blog.  First a little retrospective of how I think I did last year.  Thinking back to early last year my goals were things like: 

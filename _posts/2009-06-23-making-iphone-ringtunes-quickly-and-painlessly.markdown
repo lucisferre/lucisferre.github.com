@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-06-23 18:07:00'
-layout: post
-slug: making-iphone-ringtunes-quickly-and-painlessly
-status: publish
 title: Making iPhone ringtunes quickly and painlessly
-comments: true
-wordpress_id: '21'
+date: 2009-06-23 18:07:00 Z
 categories:
 - iPhone
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '21'
 ---
 
 [http://reviews.cnet.com/tips-tricks/make-your-own-iphone/9602-12576_7-0.html?messageID=2510972][1]

@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-10-16 18:59:00'
-layout: post
-slug: integration-testing-with-a-service-bus
-status: publish
 title: Integration Testing with a Service Bus
-comments: true
-wordpress_id: '46'
+date: 2009-10-16 18:59:00 Z
 categories:
-- .NET
+- ".NET"
 - TDD
 - SOA
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '46'
 ---
 
 Using a service bus and messaging architecture allows for all sorts of good things with service oriented architectures, but one use I found for them recently was integration testing by using mocking framework with my messaging architecture.  I was able to do this by simply by getting a mock of the `IConsumer<T>` and subscribing it to the bus. 

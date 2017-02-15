@@ -1,12 +1,6 @@
 ---
-author: Chris Nicola
-date: '2010-02-01 13:32:00'
-layout: post
-slug: vancouver-altnet-meetup-aspnet-mvc-and-more
-status: publish
 title: Vancouver ALT.NET meetup - ASP.NET MVC and more
-comments: true
-wordpress_id: '65'
+date: 2010-02-01 13:32:00 Z
 categories:
 - alt.net
 - ASP.NET
@@ -14,6 +8,11 @@ categories:
 - MVC
 - MVVM
 - silverlight
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '65'
 ---
 
 I probably should have posted this earlier, but there will be a meetup 6PM Feb 4th at the Library Square Pub downtown.  You can go [here to RSVP and for details][1].  It should be interesting.  Here is a short list of some potential topics for discussion:

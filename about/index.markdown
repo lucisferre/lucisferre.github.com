@@ -1,10 +1,10 @@
 ---
+title: Chris Nicola
+date: 2010-10-23 10:54:08 Z
 author: chrisn
-date: '2010-10-23 10:54:08'
 layout: page
 slug: about
 status: publish
-title: Chris Nicola
 ---
 
 My name is Chris Nicola and I'm a software developer living in Vancouver, B.C.

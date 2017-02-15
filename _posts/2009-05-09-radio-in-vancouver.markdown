@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2009-05-09 21:57:13'
-layout: post
-slug: radio-in-vancouver
-status: publish
 title: Radio in Vancouver
-comments: true
-wordpress_id: '88'
+date: 2009-05-09 21:57:13 Z
 categories:
 - music
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '88'
 ---
 
 I doubt there is much disagreement among Vancouverites that the local commercial radio stations are a pile of total crap. However, this year we got a couple new stations and one of them has been real gem in what is the tailings pit of local [radio ga-ga][1]. [The Peak FM][2]. 

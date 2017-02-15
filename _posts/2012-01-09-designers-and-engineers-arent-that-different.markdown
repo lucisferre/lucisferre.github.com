@@ -1,14 +1,13 @@
 ---
-author: Chris Nicola
-date: '2012-01-09 08:18:36'
-layout: post
-slug: designers-and-engineers-arent-that-different
-status: publish
 title: Designers and engineers aren't that different
-comments: true
+date: 2012-01-09 08:18:36 Z
 categories:
 - design
 - development
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
 ---
 
 This [post][1] made the rounds at work the other day and on twitter. It's a

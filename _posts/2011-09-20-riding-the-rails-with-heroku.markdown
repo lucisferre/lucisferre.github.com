@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2011-09-20 19:56:18'
-layout: post
-slug: riding-the-rails-with-heroku
-status: publish
 title: Riding the Rails with Heroku
-comments: true
-wordpress_id: '669'
+date: 2011-09-20 19:56:18 Z
 categories:
 - NOT.NET
 - heroku
 - rails
 - ruby
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '669'
 ---
 
 Continuing on from last weekends Ruby on Rails fun I've continued working the

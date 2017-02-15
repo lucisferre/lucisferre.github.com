@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-01-22 10:58:00'
-layout: post
-slug: even-images-need-boundaries
-status: publish
 title: Even images need boundaries
-comments: true
-wordpress_id: '63'
+date: 2010-01-22 10:58:00 Z
 categories:
-- .NET
+- ".NET"
 - clean code
 - csharp
 - TDD
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '63'
 ---
 
 This morning I was looking for some simple code to do basic resizing of images.  A website I am working on has an image upload and the upload needs to restrict the images to maximum height and width values.  This is a very simple and probably fairly common task.  As a rule, I don't usually keep a reference library worth of code snippets in my head (or anywhere for that matter) since I can quickly google anything when I need it and doing so I found [this post][1] which had a solution I liked.

@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-10-06 07:30:26'
-layout: post
-slug: dont-call-the-dom-in-a-loop
-status: publish
 title: Don't call the DOM in a loop
-comments: true
-wordpress_id: '679'
+date: 2011-10-06 07:30:26 Z
 categories:
 - javascript
 - jquery
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '679'
 ---
 
 One of my mine pet peeves with [backbone.js][1] is how readily it leads to

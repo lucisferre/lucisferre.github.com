@@ -1,9 +1,12 @@
 ---
+title: In which I do a partial about face on CQRS
+date: 2012-01-30 08:00:00 Z
+categories:
+- CQRS
+- C#
+- rant
 layout: post
-title: "In which I do a partial about face on CQRS"
-date: 2012-01-30 8:00
 comments: true
-categories: [CQRS, C#, rant]
 ---
 
 I've spent nearly two years now exploring and applying both CQRS and event

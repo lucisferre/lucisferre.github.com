@@ -1,13 +1,11 @@
 ---
-author: Chris Nicola
-date: '2010-03-21 15:52:00'
-layout: post
-slug: the-next-big-step
-status: publish
 title: The next big step
+date: 2010-03-21 15:52:00 Z
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '72'
-categories:
 ---
 
 For the past two and a half years, most of my work as a software developer has been done independently, with a few exceptions where I have occasionally partnered with developers like Paul Newton, [Chris Nicol][1] (no relation), [Adam Dymitruk][2] and most recently [Tyler Hamilton][3].  While working independently has allowed me a lot of control over the software I design, the tools I use, and how I learn, I have felt that I was missing out on the potential for growth and learning that working with an experienced development team would provide. 

@@ -1,9 +1,12 @@
 ---
+title: Getting into vertical rhythm
+date: 2012-10-08 18:46:00 Z
+categories:
+- css
+- design
+- Foundation
 layout: post
-title: "Getting into vertical rhythm"
-date: 2012-10-08 18:46
 comments: true
-categories: [css, design, Foundation]
 ---
 
 I've been meaning to write up a blog post about Zurb's [Foundation][foundation]

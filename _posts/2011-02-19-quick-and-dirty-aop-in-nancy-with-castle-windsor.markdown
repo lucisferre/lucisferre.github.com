@@ -1,19 +1,18 @@
 ---
-author: Chris Nicola
-date: '2011-02-19 13:06:19'
-layout: post
-slug: quick-and-dirty-aop-in-nancy-with-castle-windsor
-status: publish
 title: Quick and Dirty AoP in Nancy with Castle Windsor
-comments: true
-wordpress_id: '386'
+date: 2011-02-19 13:06:19 Z
 categories:
-- .NET
+- ".NET"
 - AoP
 - ASP.NET
 - NancyFx
 - REST
 - Windsor
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '386'
 ---
 
 I’m really enjoying using Nancy to build my RESTful web API, however being as

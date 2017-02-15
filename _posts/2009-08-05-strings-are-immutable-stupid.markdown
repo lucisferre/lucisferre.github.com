@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-08-05 05:49:00'
-layout: post
-slug: strings-are-immutable-stupid
-status: publish
 title: Strings are immutable stupid!
-comments: true
-wordpress_id: '32'
+date: 2009-08-05 05:49:00 Z
 categories:
-- .NET
+- ".NET"
 - C#
 - fail
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '32'
 ---
 
 Last night, I was reading through the MCTS cram guide for Application Developer (and drinking beers) and enjoying a bit of a laugh as I learned ground breaking concepts like "value types" and "creating class" (it's not _all _that bad) when I came across this "Strings are immutable in the .NET Framework".

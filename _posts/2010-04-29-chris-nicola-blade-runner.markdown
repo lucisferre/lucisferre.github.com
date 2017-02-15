@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-04-29 07:58:00'
-layout: post
-slug: chris-nicola-blade-runner
-status: publish
 title: Chris Nicola… Blade Runner
-comments: true
-wordpress_id: '78'
+date: 2010-04-29 07:58:00 Z
 categories:
-- .NET
+- ".NET"
 - blogengine
 - blogging
 - spam
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '78'
 ---
 
 Well I promised I'd follow up on [this post][1] however it will be my last post on blog spam I think (I don't want this to turn into a blog about dealing with spam).  So far, my [experiment][2] with confusing the bots has been fairly successful.  I’ve added a simple hidden form field disguised as the e-mail field.  Some JavaScript validation will block any submission where that field contains any input.  This scheme has managed to reduce the number of spam comments received from and average 37 comments a day to 21 (about 45%).  Even better is that it seems to have fooled the most successful bots at beating the Akismet and Typepad filters, as the amount of comments getting through the filters went down from 2 a day to less than 2 a week (either that or those filters have gotten better lately).  

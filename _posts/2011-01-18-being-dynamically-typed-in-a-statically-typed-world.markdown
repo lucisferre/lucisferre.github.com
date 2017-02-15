@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2011-01-18 20:04:03'
-layout: post
-slug: being-dynamically-typed-in-a-statically-typed-world
-status: publish
 title: Being dynamically typed in a statically typed world
+date: 2011-01-18 20:04:03 Z
+categories:
+- ".NET"
+- C#
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '274'
-categories:
-- .NET
-- C#
 ---
 
 Ever since I started writing code in .NET 4.0 I’ve been trying to find both time and a reason to start using C#’s `dynamic` keyword.  It’s been a challenge.  Initially I found myself at a dead end almost every time I tried to use it to do something dynamic (usually ending at some RuntimeBinderException).

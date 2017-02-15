@@ -1,17 +1,16 @@
 ---
-author: Chris Nicola
-date: '2010-03-29 01:04:00'
-layout: post
-slug: the-continuing-adventures-of-a-spam-assassin
-status: publish
 title: The continuing adventures of a spam assassin
-comments: true
-wordpress_id: '74'
+date: 2010-03-29 01:04:00 Z
 categories:
-- .NET
+- ".NET"
 - blogengine
 - blogging
 - spam
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '74'
 ---
 
 Yet another post about spam, I suppose I find spam kind of fascinating in some ways.  I mean, it is largely an automated, yet adaptive attack on a system and so the process of improving that system so that it is more resilient to the attacker is interesting to me.

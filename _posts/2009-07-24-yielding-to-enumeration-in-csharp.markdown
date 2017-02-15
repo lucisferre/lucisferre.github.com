@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-07-24 21:48:00'
-layout: post
-slug: yielding-to-enumeration-in-csharp
-status: publish
 title: Yielding to enumeration in C#
+date: 2009-07-24 21:48:00 Z
+categories:
+- ".NET"
+- C#
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '27'
-categories:
-- .NET
-- C#
 ---
 
 I just discovered the `yield` keyword and I can't believe I hadn't found it sooner. I became a huge fan of using LINQ from the moment I started using it and I am in the habit of passing and returning IEnumerable whenever possible.

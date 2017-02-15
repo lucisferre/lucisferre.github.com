@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-05-19 19:42:00'
-layout: post
-slug: nhibernate-linq-and-queries
-status: publish
 title: nHibernate, Linq and Queries
+date: 2009-05-19 19:42:00 Z
+categories:
+- ".NET"
+- nHibernate
+author: Chris Nicola
+layout: post
+status: publish
 comments: true
 wordpress_id: '5'
-categories:
-- .NET
-- nHibernate
 ---
 
 ![NHLogoSmall][1]

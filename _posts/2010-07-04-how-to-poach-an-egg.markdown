@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2010-07-04 17:04:00'
-layout: post
-slug: how-to-poach-an-egg
-status: publish
 title: How to poach an egg
-comments: true
-wordpress_id: '81'
+date: 2010-07-04 17:04:00 Z
 categories:
 - food
 - recipe
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '81'
 ---
 
 ![poached][1]

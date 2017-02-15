@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-07-29 04:42:00'
-layout: post
-slug: iphone-3gs-released-on-appeal
-status: publish
 title: iPhone 3GS, released on appeal
-comments: true
-wordpress_id: '31'
+date: 2009-07-29 04:42:00 Z
 categories:
 - General/News
 - iPhone
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '31'
 ---
 
 Well I jailbroke my 3GS. Turns out I grossly misunderstood the jailbreaking process. The unlock I thought was a jailbreak was in fact just an unlock so that non-AT&T customers could use their iPhones with other carriers. Dev Team was waiting until the 3.1 firmware release to put out their jailbreak so they could see what Apple would do. George Hotz, apparently the original iPhone hacker, came out of retirement to tell them he wasn't having any of that. He has released a 3GS jailbreak for 3.0 firmware called [purplera1n][1]. Please note, this is only for the 3GS as far as I know.  

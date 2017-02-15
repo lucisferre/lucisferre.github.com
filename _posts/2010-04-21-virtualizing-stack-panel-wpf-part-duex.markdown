@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-04-21 16:41:00'
-layout: post
-slug: virtualizing-stack-panel-wpf-part-duex
-status: publish
 title: Virtualizing Stack Panel WPF!??? Part Duex
-comments: true
-wordpress_id: '77'
+date: 2010-04-21 16:41:00 Z
 categories:
-- .NET
+- ".NET"
 - fail
 - WPF
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '77'
 ---
 
 So, as I mentioned in an update to part one I did end up finding a solution to the problem.  It was a hybrid of all the other, largely broken solutions out there.  I should also mention I was not happy with this solution, it felt hacky and performed somewhat poorly, instead I took a different approach altogether to get the desired result for my users.  Nonetheless, despite not using this solution I think the resulting code is worth writing about and considering so here it is.

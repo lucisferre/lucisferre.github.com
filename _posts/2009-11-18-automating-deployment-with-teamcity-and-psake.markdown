@@ -1,19 +1,18 @@
 ---
-author: Chris Nicola
-date: '2009-11-18 08:42:00'
-layout: post
-slug: automating-deployment-with-teamcity-and-psake
-status: publish
 title: Automating Deployment with TeamCity and psake
-comments: true
-wordpress_id: '49'
+date: 2009-11-18 08:42:00 Z
 categories:
-- .NET
+- ".NET"
 - Software Development
 - continuous deployment
 - powershell
 - psake
 - TeamCity
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '49'
 ---
 
 ![space_sake][1]

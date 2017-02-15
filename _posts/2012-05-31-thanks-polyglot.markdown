@@ -1,9 +1,11 @@
 ---
+title: Thanks Polyglots
+date: 2012-05-31 08:57:00 Z
+categories:
+- polyglot
+- conference
 layout: post
-title: "Thanks Polyglots"
-date: 2012-05-31 08:57
 comments: true
-categories: [polyglot, conference]
 ---
 
 <img class="right" src="/images/polyglot-icon.png">

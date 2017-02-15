@@ -1,9 +1,12 @@
 ---
+title: Announcing the Vancouver Polyglot Conference May 25-27
+date: 2012-02-25 08:41:00 Z
+categories:
+- conference,
+- unconference,
+- polyglot
 layout: post
-title: "Announcing the Vancouver Polyglot Conference May 25-27"
-date: 2012-02-25 08:41
 comments: true
-categories: conference, unconference, polyglot
 ---
 
 I'm happy to finally announce the Vancouver Polyglot conference, a concept that's been floating around for a few of us now for probably a little over a year now. Now thanks to an amazing group of organizers, and probably in no small thanks part to [Boris Mann][bmann] just up and creating a [Lanyrd][lanyrd] page and giving the event a date almost immediately after we mentioned it to him---literally, I mean right as we were sitting there---it's actually happening.

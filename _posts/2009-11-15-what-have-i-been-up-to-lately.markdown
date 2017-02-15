@@ -1,15 +1,14 @@
 ---
-author: Chris Nicola
-date: '2009-11-15 00:04:00'
-layout: post
-slug: what-have-i-been-up-to-lately
-status: publish
 title: What have I been up to lately?
-comments: true
-wordpress_id: '48'
+date: 2009-11-15 00:04:00 Z
 categories:
 - agile
 - alt.net
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '48'
 ---
 
 It has been quite a while since I have had much time to even think about writing a blog post and there are a series of reasons for that.  Typically, I try not to avoid writing those "posting about why I haven't been posting" posts that seem all to common amongst lazy bloggers like myself, but in this case I feel reasons are sufficiently interesting to go into detail.

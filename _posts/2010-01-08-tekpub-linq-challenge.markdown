@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2010-01-08 16:51:00'
-layout: post
-slug: tekpub-linq-challenge
-status: publish
 title: TekPub Linq Challenge!
-comments: true
-wordpress_id: '60'
+date: 2010-01-08 16:51:00 Z
 categories:
-- .NET
+- ".NET"
 - linq
 - Tekpub
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '60'
 ---
 
 ```csharp

@@ -1,16 +1,15 @@
 ---
-author: Chris Nicola
-date: '2009-06-18 22:29:00'
-layout: post
-slug: custom-httpmodules-and-ajax-errors
-status: publish
 title: Custom HttpModules and AJAX errors
-comments: true
-wordpress_id: '19'
+date: 2009-06-18 22:29:00 Z
 categories:
-- .NET
+- ".NET"
 - analytics
 - ASP.NET
+author: Chris Nicola
+layout: post
+status: publish
+comments: true
+wordpress_id: '19'
 ---
 
 Seems like all I do lately is fix other people's GA plugins. This one is really handy though. It creates a pluggable HttpModule to insert the GA script on all your ASPX pages. I found the original post [here][1]:
