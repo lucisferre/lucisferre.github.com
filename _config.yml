@@ -13,7 +13,7 @@ description: Thoughts on software, startups and relentless improvement.
 baseurl: 
 markdown: kramdown
 permalink: "/:year/:month/:day/:title/"
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: css
   style: compressed
