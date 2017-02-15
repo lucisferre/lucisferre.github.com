@@ -11,7 +11,7 @@ collections:
 email: chnicola@gmail.com
 description: Thoughts on software, startups and relentless improvement.
 baseurl: 
-markdown: redcarpet
+markdown: kramdown
 permalink: "/:year/:month/:day/:title/"
 highlighter: pygments
 sass:
