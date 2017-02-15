@@ -14,10 +14,6 @@ baseurl:
 markdown: redcarpet
 permalink: "/:year/:month/:day/:title/"
 highlighter: pygments
-redcarpet:
-  extensions:
-  - strikethrough
-  - tables
 sass:
   sass_dir: css
   style: compressed
